@@ -1,0 +1,2624 @@
+Query= lcl|NZ_CP082178.1_cds_21 [locus_tag=K4A87_RS00115]
+[protein=2OG-Fe(II) oxygenase] [pseudo=true] [partial=5']
+[location=complement(21510..>21715)] [gbkey=CDS]
+
+Length=206
+Query= lcl|NZ_CP082178.1_cds_WP_208588297.1_43 [locus_tag=K4A87_RS00240]
+[protein=hypothetical protein] [protein_id=WP_208588297.1]
+[location=50142..51404] [gbkey=CDS]
+
+Length=1263
+Query= lcl|NZ_CP082178.1_cds_WP_208588325.1_63 [locus_tag=K4A87_RS00355]
+[protein=retroviral-like aspartic protease family protein]
+[protein_id=WP_208588325.1] [location=complement(73989..75272)]
+[gbkey=CDS]
+
+Length=1284
+Query= lcl|NZ_CP082178.1_cds_WP_238135590.1_64 [locus_tag=K4A87_RS00360]
+[protein=hypothetical protein] [protein_id=WP_238135590.1]
+[location=complement(75344..75901)] [gbkey=CDS]
+
+Length=558
+Query= lcl|NZ_CP082178.1_cds_65 [locus_tag=K4A87_RS00365] [protein=IS481
+family transposase] [pseudo=true] [partial=5',3']
+[location=complement(<76107..>76250)] [gbkey=CDS]
+
+Length=144
+Query= lcl|NZ_CP082178.1_cds_WP_238135592.1_68 [locus_tag=K4A87_RS00380]
+[protein=hypothetical protein] [protein_id=WP_238135592.1]
+[location=78063..78734] [gbkey=CDS]
+
+Length=672
+Query= lcl|NZ_CP082178.1_cds_WP_238135593.1_70 [locus_tag=K4A87_RS00390]
+[protein=hypothetical protein] [protein_id=WP_238135593.1]
+[location=80059..80730] [gbkey=CDS]
+
+Length=672
+Query= lcl|NZ_CP082178.1_cds_76 [locus_tag=K4A87_RS00425] [protein=IS5
+family transposase] [pseudo=true] [partial=3']
+[location=86697..>87282] [gbkey=CDS]
+
+Length=586
+Query= lcl|NZ_CP082178.1_cds_WP_238135595.1_91 [locus_tag=K4A87_RS00500]
+[protein=hypothetical protein] [protein_id=WP_238135595.1]
+[location=97099..97695] [gbkey=CDS]
+
+Length=597
+Query= lcl|NZ_CP082178.1_cds_98 [locus_tag=K4A87_RS00535] [protein=VacJ
+family lipoprotein] [pseudo=true] [partial=5',3']
+[location=<106419..>106523] [gbkey=CDS]
+
+Length=105
+Query= lcl|NZ_CP082178.1_cds_WP_238135600.1_177 [locus_tag=K4A87_RS00960]
+[protein=Fic family protein] [protein_id=WP_238135600.1]
+[location=207220..208338] [gbkey=CDS]
+
+Length=1119
+Query= lcl|NZ_CP082178.1_cds_WP_208588437.1_179 [locus_tag=K4A87_RS00970]
+[protein=hypothetical protein] [protein_id=WP_208588437.1]
+[location=209393..209863] [gbkey=CDS]
+
+Length=471
+Query= lcl|NZ_CP082178.1_cds_WP_208586408.1_180 [locus_tag=K4A87_RS00975]
+[protein=IS30 family transposase] [protein_id=WP_208586408.1]
+[location=209839..210855] [gbkey=CDS]
+
+Length=1017
+Query= lcl|NZ_CP082178.1_cds_WP_208588438.1_181 [locus_tag=K4A87_RS00980]
+[protein=YkgJ family cysteine cluster protein]
+[protein_id=WP_208588438.1] [location=complement(210948..211331)]
+[gbkey=CDS]
+
+Length=384
+Query= lcl|NZ_CP082178.1_cds_194 [locus_tag=K4A87_RS01045] [protein=IS701
+family transposase] [pseudo=true]
+[location=complement(220740..222086)] [gbkey=CDS]
+
+Length=1347
+Query= lcl|NZ_CP082178.1_cds_212 [locus_tag=K4A87_RS01145] [protein=DUF4198
+domain-containing protein] [pseudo=true] [partial=5',3']
+[location=complement(<253495..>253695)] [gbkey=CDS]
+
+Length=201
+Query= lcl|NZ_CP082178.1_cds_WP_238135603.1_231 [locus_tag=K4A87_RS01250]
+[protein=C48 family peptidase] [protein_id=WP_238135603.1]
+[location=269320..271461] [gbkey=CDS]
+
+Length=2142
+Query= lcl|NZ_CP082178.1_cds_243 [locus_tag=K4A87_RS01325]
+[protein=transposase] [pseudo=true]
+[location=complement(281825..282656)] [gbkey=CDS]
+
+Length=832
+Query= lcl|NZ_CP082178.1_cds_244 [locus_tag=K4A87_RS01330]
+[protein=hypothetical protein] [pseudo=true]
+[location=282704..283088] [gbkey=CDS]
+
+Length=385
+Query= lcl|NZ_CP082178.1_cds_247 [locus_tag=K4A87_RS01350] [protein=MFS
+transporter] [pseudo=true] [partial=5'] [location=<285190..285430]
+[gbkey=CDS]
+
+Length=241
+Query= lcl|NZ_CP082178.1_cds_251 [locus_tag=K4A87_RS01370] [protein=TolC
+family protein] [pseudo=true] [partial=5']
+[location=<287962..288279] [gbkey=CDS]
+
+Length=318
+Query= lcl|NZ_CP082178.1_cds_WP_208588512.1_262 [locus_tag=K4A87_RS01425]
+[protein=hypothetical protein] [protein_id=WP_208588512.1]
+[location=303060..303515] [gbkey=CDS]
+
+Length=456
+Query= lcl|NZ_CP082178.1_cds_279 [locus_tag=K4A87_RS01515]
+[protein=3-carboxy-cis,cis-muconate cycloisomerase] [pseudo=true]
+[partial=5'] [location=<324743..325032] [gbkey=CDS]
+
+Length=290
+Query= lcl|NZ_CP082178.1_cds_280 [locus_tag=K4A87_RS01520]
+[protein=alpha/beta hydrolase] [pseudo=true] [partial=5']
+[location=<325116..325498] [gbkey=CDS]
+
+Length=383
+Query= lcl|NZ_CP082178.1_cds_281 [locus_tag=K4A87_RS01525] [protein=IclR
+family transcriptional regulator] [pseudo=true] [partial=3']
+[location=complement(<325515..325670)] [gbkey=CDS]
+
+Length=156
+Query= lcl|NZ_CP082178.1_cds_287 [locus_tag=K4A87_RS01555]
+[protein=isopropylmalate/homocitrate/citramalate synthase]
+[pseudo=true] [partial=5',3'] [location=<331731..>331832]
+[gbkey=CDS]
+
+Length=102
+Query= lcl|NZ_CP082178.1_cds_WP_208588592.1_299 [locus_tag=K4A87_RS01620]
+[protein=hypothetical protein] [protein_id=WP_208588592.1]
+[location=complement(343543..344154)] [gbkey=CDS]
+
+Length=612
+Query= lcl|NZ_CP082178.1_cds_WP_208588630.1_316 [locus_tag=K4A87_RS01715]
+[protein=hypothetical protein] [protein_id=WP_208588630.1]
+[location=371816..372310] [gbkey=CDS]
+
+Length=495
+Query= lcl|NZ_CP082178.1_cds_WP_238135609.1_317 [locus_tag=K4A87_RS01720]
+[protein=c-type cytochrome] [protein_id=WP_238135609.1]
+[location=complement(372307..373398)] [gbkey=CDS]
+
+Length=1092
+Query= lcl|NZ_CP082178.1_cds_WP_208588634.1_318 [locus_tag=K4A87_RS01725]
+[protein=IPT/TIG domain-containing protein]
+[protein_id=WP_208588634.1] [location=373569..378416] [gbkey=CDS]
+
+Length=4848
+Query= lcl|NZ_CP082178.1_cds_WP_208588635.1_320 [locus_tag=K4A87_RS01735]
+[protein=hypothetical protein] [protein_id=WP_208588635.1]
+[location=383694..384074] [gbkey=CDS]
+
+Length=381
+Query= lcl|NZ_CP082178.1_cds_321 [locus_tag=K4A87_RS01740]
+[protein=transposase] [pseudo=true] [partial=5']
+[location=complement(384141..>384578)] [gbkey=CDS]
+
+Length=438
+Query= lcl|NZ_CP082178.1_cds_WP_238135613.1_325 [locus_tag=K4A87_RS01760]
+[protein=hypothetical protein] [protein_id=WP_238135613.1]
+[location=392840..393130] [gbkey=CDS]
+
+Length=291
+Query= lcl|NZ_CP082178.1_cds_WP_208588639.1_329 [locus_tag=K4A87_RS01780]
+[protein=hypothetical protein] [protein_id=WP_208588639.1]
+[location=396880..397119] [gbkey=CDS]
+
+Length=240
+Query= lcl|NZ_CP082178.1_cds_WP_208588641.1_330 [locus_tag=K4A87_RS01785]
+[protein=hypothetical protein] [protein_id=WP_208588641.1]
+[location=397811..398215] [gbkey=CDS]
+
+Length=405
+Query= lcl|NZ_CP082178.1_cds_WP_208588643.1_332 [locus_tag=K4A87_RS01795]
+[protein=hypothetical protein] [protein_id=WP_208588643.1]
+[location=399602..399844] [gbkey=CDS]
+
+Length=243
+Query= lcl|NZ_CP082178.1_cds_WP_208588645.1_333 [locus_tag=K4A87_RS01800]
+[protein=RHS repeat protein] [protein_id=WP_208588645.1]
+[location=400144..400542] [gbkey=CDS]
+
+Length=399
+Query= lcl|NZ_CP082178.1_cds_WP_208591855.1_336 [locus_tag=K4A87_RS01815]
+[protein=hypothetical protein] [protein_id=WP_208591855.1]
+[location=complement(403627..403803)] [gbkey=CDS]
+
+Length=177
+Query= lcl|NZ_CP082178.1_cds_WP_238135616.1_339 [locus_tag=K4A87_RS01830]
+[protein=DEAD/DEAH box helicase] [protein_id=WP_238135616.1]
+[location=406335..409310] [gbkey=CDS]
+
+Length=2976
+Query= lcl|NZ_CP082178.1_cds_WP_208588649.1_340 [locus_tag=K4A87_RS01835]
+[protein=putative DNA binding domain-containing protein]
+[protein_id=WP_208588649.1] [location=409307..410623] [gbkey=CDS]
+
+Length=1317
+Query= lcl|NZ_CP082178.1_cds_WP_238135617.1_341 [locus_tag=K4A87_RS01840]
+[protein=AAA family ATPase] [protein_id=WP_238135617.1]
+[location=410752..413580] [gbkey=CDS]
+
+Length=2829
+Query= lcl|NZ_CP082178.1_cds_WP_254216284.1_342 [locus_tag=K4A87_RS01845]
+[protein=dienelactone hydrolase family protein]
+[protein_id=WP_254216284.1] [location=413618..414421] [gbkey=CDS]
+
+Length=804
+Query= lcl|NZ_CP082178.1_cds_WP_254216285.1_343 [locus_tag=K4A87_RS19855]
+[protein=dienelactone hydrolase family protein]
+[protein_id=WP_254216285.1] [location=414390..414506] [gbkey=CDS]
+
+Length=117
+Query= lcl|NZ_CP082178.1_cds_WP_208588679.1_366 [locus_tag=K4A87_RS01975]
+[protein=ATP-binding protein] [protein_id=WP_208588679.1]
+[location=442101..444212] [gbkey=CDS]
+
+Length=2112
+Query= lcl|NZ_CP082178.1_cds_367 [locus_tag=K4A87_RS01985] [protein=IS4
+family transposase] [pseudo=true] [partial=5',3']
+[location=complement(<444607..>445122)] [gbkey=CDS]
+
+Length=516
+Query= lcl|NZ_CP082178.1_cds_371 [locus_tag=K4A87_RS02005] [protein=IS701
+family transposase] [pseudo=true] [partial=5',3']
+[location=complement(<446180..>446914)] [gbkey=CDS]
+
+Length=735
+Query= lcl|NZ_CP082178.1_cds_WP_208586408.1_372 [locus_tag=K4A87_RS02010]
+[protein=IS30 family transposase] [protein_id=WP_208586408.1]
+[location=complement(446922..447938)] [gbkey=CDS]
+
+Length=1017
+Query= lcl|NZ_CP082178.1_cds_373 [locus_tag=K4A87_RS02015]
+[protein=transposase] [pseudo=true] [partial=3']
+[location=complement(<447990..448442)] [gbkey=CDS]
+
+Length=453
+Query= lcl|NZ_CP082178.1_cds_WP_208588700.1_386 [locus_tag=K4A87_RS02080]
+[protein=hypothetical protein] [protein_id=WP_208588700.1]
+[location=complement(461872..462504)] [gbkey=CDS]
+
+Length=633
+Query= lcl|NZ_CP082178.1_cds_WP_208586408.1_387 [locus_tag=K4A87_RS02085]
+[protein=IS30 family transposase] [protein_id=WP_208586408.1]
+[location=complement(462540..463556)] [gbkey=CDS]
+
+Length=1017
+Query= lcl|NZ_CP082178.1_cds_390 [locus_tag=K4A87_RS02100]
+[protein=hypothetical protein] [pseudo=true] [partial=5']
+[location=<464981..465235] [gbkey=CDS]
+
+Length=255
+Query= lcl|NZ_CP082178.1_cds_394 [locus_tag=K4A87_RS02120] [protein=DUF3606
+domain-containing protein] [pseudo=true] [location=466657..466853]
+[gbkey=CDS]
+
+Length=197
+Query= lcl|NZ_CP082178.1_cds_WP_208588732.1_412 [locus_tag=K4A87_RS02220]
+[protein=hypothetical protein] [protein_id=WP_208588732.1]
+[location=486192..486332] [gbkey=CDS]
+
+Length=141
+Query= lcl|NZ_CP082178.1_cds_WP_208588746.1_423 [locus_tag=K4A87_RS02280]
+[protein=hypothetical protein] [protein_id=WP_208588746.1]
+[location=complement(499684..499884)] [gbkey=CDS]
+
+Length=201
+Query= lcl|NZ_CP082178.1_cds_451 [locus_tag=K4A87_RS02425]
+[protein=EamA/RhaT family transporter] [pseudo=true] [partial=5']
+[location=<521975..522274] [gbkey=CDS]
+
+Length=300
+Query= lcl|NZ_CP082178.1_cds_452 [locus_tag=K4A87_RS02430] [protein=IS701
+family transposase] [pseudo=true] [location=522513..523872]
+[gbkey=CDS]
+
+Length=1360
+Query= lcl|NZ_CP082178.1_cds_485 [locus_tag=K4A87_RS02610] [protein=IS701
+family transposase] [pseudo=true] [partial=3']
+[location=complement(<551245..552258)] [gbkey=CDS]
+
+Length=1014
+Query= lcl|NZ_CP082178.1_cds_WP_208588915.1_526 [locus_tag=K4A87_RS02825]
+[protein=hypothetical protein] [protein_id=WP_208588915.1]
+[location=complement(593724..594230)] [gbkey=CDS]
+
+Length=507
+Query= lcl|NZ_CP082178.1_cds_WP_238135626.1_527 [locus_tag=K4A87_RS02830]
+[protein=hypothetical protein] [protein_id=WP_238135626.1]
+[location=complement(594269..595024)] [gbkey=CDS]
+
+Length=756
+Query= lcl|NZ_CP082178.1_cds_WP_208588947.1_543 [locus_tag=K4A87_RS02915]
+[protein=ABC transporter permease] [protein_id=WP_208588947.1]
+[location=609013..609852] [gbkey=CDS]
+
+Length=840
+Query= lcl|NZ_CP082178.1_cds_WP_208588949.1_544 [locus_tag=K4A87_RS02920]
+[protein=ABC transporter ATP-binding protein]
+[protein_id=WP_208588949.1] [location=609842..611206] [gbkey=CDS]
+
+Length=1365
+Query= lcl|NZ_CP082178.1_cds_WP_208588950.1_545 [locus_tag=K4A87_RS02925]
+[protein=CatB-related O-acetyltransferase]
+[protein_id=WP_208588950.1] [location=611203..611832] [gbkey=CDS]
+
+Length=630
+Query= lcl|NZ_CP082178.1_cds_WP_208588951.1_546 [locus_tag=K4A87_RS02930]
+[protein=class I SAM-dependent methyltransferase]
+[protein_id=WP_208588951.1] [location=611832..612923] [gbkey=CDS]
+
+Length=1092
+Query= lcl|NZ_CP082178.1_cds_WP_208588952.1_547 [locus_tag=K4A87_RS02935]
+[protein=glycoside hydrolase family 99-like domain-containing
+protein] [protein_id=WP_208588952.1] [location=613096..614409]
+[gbkey=CDS]
+
+Length=1314
+Query= lcl|NZ_CP082178.1_cds_WP_208588953.1_548 [locus_tag=K4A87_RS02940]
+[protein=glycosyl transferase] [protein_id=WP_208588953.1]
+[location=614406..616103] [gbkey=CDS]
+
+Length=1698
+Query= lcl|NZ_CP082178.1_cds_WP_208588954.1_550 [locus_tag=K4A87_RS02950]
+[protein=hypothetical protein] [protein_id=WP_208588954.1]
+[location=complement(617560..619287)] [gbkey=CDS]
+
+Length=1728
+Query= lcl|NZ_CP082178.1_cds_WP_208588955.1_551 [locus_tag=K4A87_RS02955]
+[protein=GtrA family protein] [protein_id=WP_208588955.1]
+[location=complement(619472..619876)] [gbkey=CDS]
+
+Length=405
+Query= lcl|NZ_CP082178.1_cds_WP_208588957.1_552 [locus_tag=K4A87_RS02960]
+[protein=NAD(P)/FAD-dependent oxidoreductase]
+[protein_id=WP_208588957.1] [location=complement(619873..621180)]
+[gbkey=CDS]
+
+Length=1308
+Query= lcl|NZ_CP082178.1_cds_WP_208588959.1_553 [locus_tag=K4A87_RS02965]
+[protein=NAD-dependent epimerase/dehydratase family protein]
+[protein_id=WP_208588959.1] [location=complement(621210..622151)]
+[gbkey=CDS]
+
+Length=942
+Query= lcl|NZ_CP082178.1_cds_WP_238135717.1_554 [locus_tag=K4A87_RS02970]
+[protein=hypothetical protein] [protein_id=WP_238135717.1]
+[location=complement(622398..624563)] [gbkey=CDS]
+
+Length=2166
+Query= lcl|NZ_CP082178.1_cds_WP_208588962.1_555 [locus_tag=K4A87_RS02975]
+[protein=SDR family oxidoreductase] [protein_id=WP_208588962.1]
+[location=complement(624670..625398)] [gbkey=CDS]
+
+Length=729
+Query= lcl|NZ_CP082178.1_cds_WP_208588963.1_556 [locus_tag=K4A87_RS02980]
+[protein=FAD-binding oxidoreductase] [protein_id=WP_208588963.1]
+[location=complement(625401..626702)] [gbkey=CDS]
+
+Length=1302
+Query= lcl|NZ_CP082178.1_cds_WP_208591529.1_557 [locus_tag=K4A87_RS02985]
+[protein=UbiA family prenyltransferase] [protein_id=WP_208591529.1]
+[location=complement(626702..628090)] [gbkey=CDS]
+
+Length=1389
+Query= lcl|NZ_CP082178.1_cds_WP_208588964.1_558 [locus_tag=K4A87_RS02990]
+[protein=YbhN family protein] [protein_id=WP_208588964.1]
+[location=complement(628194..629180)] [gbkey=CDS]
+
+Length=987
+Query= lcl|NZ_CP082178.1_cds_WP_208588972.1_564 [gene=rfbD]
+[locus_tag=K4A87_RS03020] [protein=dTDP-4-dehydrorhamnose reductase]
+[protein_id=WP_208588972.1] [location=633666..634571] [gbkey=CDS]
+
+Length=906
+Query= lcl|NZ_CP082178.1_cds_WP_208591531.1_569 [locus_tag=K4A87_RS03045]
+[protein=glycoside hydrolase family 99-like domain-containing
+protein] [protein_id=WP_208591531.1]
+[location=complement(639020..641086)] [gbkey=CDS]
+
+Length=2067
+Query= lcl|NZ_CP082178.1_cds_WP_238135627.1_584 [locus_tag=K4A87_RS03125]
+[protein=DUF4276 family protein] [protein_id=WP_238135627.1]
+[location=complement(657227..657892)] [gbkey=CDS]
+
+Length=666
+Query= lcl|NZ_CP082178.1_cds_WP_208589002.1_585 [locus_tag=K4A87_RS03130]
+[protein=AAA family ATPase] [protein_id=WP_208589002.1]
+[location=complement(657895..659127)] [gbkey=CDS]
+
+Length=1233
+Query= lcl|NZ_CP082178.1_cds_WP_208589048.1_609 [locus_tag=K4A87_RS03270]
+[protein=IS701 family transposase] [protein_id=WP_208589048.1]
+[location=690541..691887] [gbkey=CDS]
+
+Length=1347
+Query= lcl|NZ_CP082178.1_cds_612 [locus_tag=K4A87_RS03285]
+[protein=glycosyltransferase] [pseudo=true] [partial=5']
+[location=<693974..694495] [gbkey=CDS]
+
+Length=522
+Query= lcl|NZ_CP082178.1_cds_618 [locus_tag=K4A87_RS03315]
+[protein=nicotinate phosphoribosyltransferase] [pseudo=true]
+[partial=5',3'] [location=<701081..>701689] [gbkey=CDS]
+
+Length=609
+Query= lcl|NZ_CP082178.1_cds_622 [locus_tag=K4A87_RS03335]
+[protein=arsenate reductase (glutaredoxin)] [pseudo=true]
+[partial=5'] [location=<704972..705100] [gbkey=CDS]
+
+Length=129
+Query= lcl|NZ_CP082178.1_cds_653 [locus_tag=K4A87_RS03495]
+[protein=IS5/IS1182 family transposase] [pseudo=true] [partial=3']
+[location=complement(<739206..739445)] [gbkey=CDS]
+
+Length=240
+Query= lcl|NZ_CP082178.1_cds_WP_208591537.1_666 [locus_tag=K4A87_RS03570]
+[protein=hypothetical protein] [protein_id=WP_208591537.1]
+[location=762248..762466] [gbkey=CDS]
+
+Length=219
+Query= lcl|NZ_CP082178.1_cds_668 [locus_tag=K4A87_RS03585] [protein=type II
+toxin-antitoxin system CcdA family antitoxin] [pseudo=true]
+[partial=3'] [location=complement(<763282..763374)] [gbkey=CDS]
+
+Length=93
+Query= lcl|NZ_CP082178.1_cds_WP_208589153.1_688 [locus_tag=K4A87_RS03685]
+[protein=glyoxalase] [protein_id=WP_208589153.1]
+[location=787062..787427] [gbkey=CDS]
+
+Length=366
+Query= lcl|NZ_CP082178.1_cds_WP_208591860.1_695 [locus_tag=K4A87_RS03725]
+[protein=hypothetical protein] [protein_id=WP_208591860.1]
+[location=complement(793714..793896)] [gbkey=CDS]
+
+Length=183
+Query= lcl|NZ_CP082178.1_cds_696 [locus_tag=K4A87_RS03730]
+[protein=histidine phosphatase family protein] [pseudo=true]
+[location=complement(793847..794203)] [gbkey=CDS]
+
+Length=357
+Query= lcl|NZ_CP082178.1_cds_WP_208589170.1_701 [locus_tag=K4A87_RS03760]
+[protein=IS701 family transposase] [protein_id=WP_208589170.1]
+[location=797196..798542] [gbkey=CDS]
+
+Length=1347
+Query= lcl|NZ_CP082178.1_cds_WP_208589171.1_704 [locus_tag=K4A87_RS03775]
+[protein=Avirulence protein A] [protein_id=WP_208589171.1]
+[location=800864..803314] [gbkey=CDS]
+
+Length=2451
+Query= lcl|NZ_CP082178.1_cds_WP_238135631.1_726 [locus_tag=K4A87_RS03890]
+[protein=ATP-binding cassette domain-containing protein]
+[protein_id=WP_238135631.1] [location=827015..827611] [gbkey=CDS]
+
+Length=597
+Query= lcl|NZ_CP082178.1_cds_771 [locus_tag=K4A87_RS04150] [protein=Oar
+protein] [pseudo=true] [partial=5',3'] [location=<880601..>880922]
+[gbkey=CDS]
+
+Length=322
+Query= lcl|NZ_CP082178.1_cds_807 [locus_tag=K4A87_RS04335] [protein=IS4
+family transposase] [pseudo=true] [partial=5']
+[location=complement(915520..>916449)] [gbkey=CDS]
+
+Length=930
+Query= lcl|NZ_CP082178.1_cds_812 [locus_tag=K4A87_RS04360] [protein=IS1595
+family transposase] [pseudo=true] [partial=5']
+[location=<920021..920131] [gbkey=CDS]
+
+Length=111
+Query= lcl|NZ_CP082178.1_cds_WP_208591864.1_822 [locus_tag=K4A87_RS04410]
+[protein=hypothetical protein] [protein_id=WP_208591864.1]
+[location=933685..933885] [gbkey=CDS]
+
+Length=201
+Query= lcl|NZ_CP082178.1_cds_861 [locus_tag=K4A87_RS04615] [protein=amidase
+family protein] [pseudo=true] [partial=5',3']
+[location=complement(<978200..>978467)] [gbkey=CDS]
+
+Length=268
+Query= lcl|NZ_CP082178.1_cds_WP_208589526.1_895 [locus_tag=K4A87_RS04795]
+[protein=GNAT family N-acetyltransferase]
+[protein_id=WP_208589526.1] [location=complement(1022742..1023233)]
+[gbkey=CDS]
+
+Length=492
+Query= lcl|NZ_CP082178.1_cds_WP_014508712.1_896 [locus_tag=K4A87_RS04800]
+[protein=DUF1778 domain-containing protein]
+[protein_id=WP_014508712.1] [location=complement(1023230..1023520)]
+[gbkey=CDS]
+
+Length=291
+Query= lcl|NZ_CP082178.1_cds_897 [locus_tag=K4A87_RS04805] [protein=type I
+toxin-antitoxin system SymE family toxin] [pseudo=true]
+[location=complement(1023596..1024001)] [gbkey=CDS]
+
+Length=406
+Query= lcl|NZ_CP082178.1_cds_WP_208589528.1_898 [locus_tag=K4A87_RS04810]
+[protein=hypothetical protein] [protein_id=WP_208589528.1]
+[location=complement(1024374..1024706)] [gbkey=CDS]
+
+Length=333
+Query= lcl|NZ_CP082178.1_cds_899 [locus_tag=K4A87_RS04815] [protein=RHS
+repeat-associated core domain-containing protein] [pseudo=true]
+[partial=5',3'] [location=complement(<1025139..>1026188)]
+[gbkey=CDS]
+
+Length=1050
+Query= lcl|NZ_CP082178.1_cds_WP_208589530.1_900 [locus_tag=K4A87_RS04820]
+[protein=hypothetical protein] [protein_id=WP_208589530.1]
+[location=complement(1026202..1026441)] [gbkey=CDS]
+
+Length=240
+Query= lcl|NZ_CP082178.1_cds_WP_208589542.1_905 [locus_tag=K4A87_RS04845]
+[protein=pilin] [protein_id=WP_208589542.1]
+[location=1034198..1034608] [gbkey=CDS]
+
+Length=411
+Query= lcl|NZ_CP082178.1_cds_WP_208589544.1_906 [locus_tag=K4A87_RS04850]
+[protein=pilin] [protein_id=WP_208589544.1]
+[location=1034683..1035090] [gbkey=CDS]
+
+Length=408
+Query= lcl|NZ_CP082178.1_cds_WP_208591868.1_940 [locus_tag=K4A87_RS05025]
+[protein=hypothetical protein] [protein_id=WP_208591868.1]
+[location=complement(1081510..1081749)] [gbkey=CDS]
+
+Length=240
+Query= lcl|NZ_CP082178.1_cds_WP_208591566.1_976 [locus_tag=K4A87_RS05235]
+[protein=IS5 family transposase] [exception=ribosomal slippage]
+[protein_id=WP_208591566.1]
+[location=join(1127773..1128058,1128058..1128506)] [gbkey=CDS]
+
+Length=735
+Query= lcl|NZ_CP082178.1_cds_1034 [locus_tag=K4A87_RS05550]
+[protein=ATP-binding protein] [pseudo=true] [partial=3']
+[location=1194726..>1195813] [gbkey=CDS]
+
+Length=1088
+Query= lcl|NZ_CP082178.1_cds_1036 [locus_tag=K4A87_RS05560] [protein=thiol
+reductase thioredoxin] [pseudo=true] [partial=3']
+[location=complement(<1198597..1198680)] [gbkey=CDS]
+
+Length=84
+Query= lcl|NZ_CP082178.1_cds_1041 [locus_tag=K4A87_RS05590]
+[protein=alpha-L-arabinofuranosidase] [pseudo=true] [partial=5',3']
+[location=complement(<1202181..>1202654)] [gbkey=CDS]
+
+Length=474
+Query= lcl|NZ_CP082178.1_cds_1073 [locus_tag=K4A87_RS05770]
+[protein=phospholipase] [pseudo=true] [partial=5',3']
+[location=complement(<1242731..>1242923)] [gbkey=CDS]
+
+Length=193
+Query= lcl|NZ_CP082178.1_cds_WP_208590037.1_1107 [locus_tag=K4A87_RS05955]
+[protein=DUF4198 domain-containing protein]
+[protein_id=WP_208590037.1] [location=complement(1273190..1273993)]
+[gbkey=CDS]
+
+Length=804
+Query= lcl|NZ_CP082178.1_cds_WP_208590039.1_1108 [locus_tag=K4A87_RS05960]
+[protein=DUF2271 domain-containing protein]
+[protein_id=WP_208590039.1] [location=complement(1274167..1274682)]
+[gbkey=CDS]
+
+Length=516
+Query= lcl|NZ_CP082178.1_cds_WP_208591578.1_1109 [locus_tag=K4A87_RS05965]
+[protein=PepSY-associated TM helix domain-containing protein]
+[protein_id=WP_208591578.1] [location=complement(1274704..1275333)]
+[gbkey=CDS]
+
+Length=630
+Query= lcl|NZ_CP082178.1_cds_WP_208590049.1_1114 [locus_tag=K4A87_RS05990]
+[protein=GNAT family N-acetyltransferase]
+[protein_id=WP_208590049.1] [location=complement(1279892..1280431)]
+[gbkey=CDS]
+
+Length=540
+Query= lcl|NZ_CP082178.1_cds_WP_208586408.1_1136 [locus_tag=K4A87_RS06105]
+[protein=IS30 family transposase] [protein_id=WP_208586408.1]
+[location=1299042..1300058] [gbkey=CDS]
+
+Length=1017
+Query= lcl|NZ_CP082178.1_cds_1157 [locus_tag=K4A87_RS06210]
+[protein=hypothetical protein] [pseudo=true] [partial=5']
+[location=complement(1321948..>1322514)] [gbkey=CDS]
+
+Length=567
+Query= lcl|NZ_CP082178.1_cds_WP_208590166.1_1165 [locus_tag=K4A87_RS06255]
+[protein=hypothetical protein] [protein_id=WP_208590166.1]
+[location=1327001..1327309] [gbkey=CDS]
+
+Length=309
+Query= lcl|NZ_CP082178.1_cds_WP_208590214.1_1179 [locus_tag=K4A87_RS06330]
+[protein=acyltransferase family protein] [protein_id=WP_208590214.1]
+[location=1342222..1343310] [gbkey=CDS]
+
+Length=1089
+Query= lcl|NZ_CP082178.1_cds_1187 [locus_tag=K4A87_RS06370]
+[protein=TraB/GumN family protein] [pseudo=true] [partial=5',3']
+[location=<1350597..>1351409] [gbkey=CDS]
+
+Length=813
+Query= lcl|NZ_CP082178.1_cds_1199 [locus_tag=K4A87_RS06450] [protein=IS701
+family transposase] [pseudo=true]
+[location=complement(1362466..1363819)] [gbkey=CDS]
+
+Length=1354
+Query= lcl|NZ_CP082178.1_cds_WP_208590300.1_1214 [locus_tag=K4A87_RS06530]
+[protein=hypothetical protein] [protein_id=WP_208590300.1]
+[location=1378925..1379209] [gbkey=CDS]
+
+Length=285
+Query= lcl|NZ_CP082178.1_cds_1216 [locus_tag=K4A87_RS06540] [protein=IS701
+family transposase] [pseudo=true] [partial=3']
+[location=1380418..>1381431] [gbkey=CDS]
+
+Length=1014
+Query= lcl|NZ_CP082178.1_cds_WP_238135654.1_1217 [locus_tag=K4A87_RS06550]
+[protein=hypothetical protein] [protein_id=WP_238135654.1]
+[location=1381786..1382520] [gbkey=CDS]
+
+Length=735
+Query= lcl|NZ_CP082178.1_cds_WP_238135655.1_1219 [locus_tag=K4A87_RS06560]
+[protein=hypothetical protein] [protein_id=WP_238135655.1]
+[location=complement(1384199..1384489)] [gbkey=CDS]
+
+Length=291
+Query= lcl|NZ_CP082178.1_cds_WP_238135656.1_1221 [locus_tag=K4A87_RS06570]
+[protein=hypothetical protein] [protein_id=WP_238135656.1]
+[location=1385755..1386069] [gbkey=CDS]
+
+Length=315
+Query= lcl|NZ_CP082178.1_cds_WP_208590306.1_1223 [locus_tag=K4A87_RS06580]
+[protein=XRE family transcriptional regulator]
+[protein_id=WP_208590306.1] [location=complement(1387930..1388247)]
+[gbkey=CDS]
+
+Length=318
+Query= lcl|NZ_CP082178.1_cds_WP_208590308.1_1224 [locus_tag=K4A87_RS06585]
+[protein=type II toxin-antitoxin system RelE/ParE family toxin]
+[protein_id=WP_208590308.1] [location=complement(1388247..1388609)]
+[gbkey=CDS]
+
+Length=363
+Query= lcl|NZ_CP082178.1_cds_WP_208590314.1_1228 [locus_tag=K4A87_RS06605]
+[protein=hypothetical protein] [protein_id=WP_208590314.1]
+[location=1394361..1395044] [gbkey=CDS]
+
+Length=684
+Query= lcl|NZ_CP082178.1_cds_WP_208590316.1_1229 [locus_tag=K4A87_RS06610]
+[protein=hypothetical protein] [protein_id=WP_208590316.1]
+[location=1395037..1395255] [gbkey=CDS]
+
+Length=219
+Query= lcl|NZ_CP082178.1_cds_WP_208590318.1_1230 [locus_tag=K4A87_RS06615]
+[protein=hypothetical protein] [protein_id=WP_208590318.1]
+[location=1395293..1396120] [gbkey=CDS]
+
+Length=828
+Query= lcl|NZ_CP082178.1_cds_WP_238135658.1_1231 [locus_tag=K4A87_RS06620]
+[protein=putative Ig domain-containing protein]
+[protein_id=WP_238135658.1] [location=1396353..1404512] [gbkey=CDS]
+
+Length=8160
+Query= lcl|NZ_CP082178.1_cds_WP_238135660.1_1261 [locus_tag=K4A87_RS06775]
+[protein=hypothetical protein] [protein_id=WP_238135660.1]
+[location=1445095..1445847] [gbkey=CDS]
+
+Length=753
+Query= lcl|NZ_CP082178.1_cds_1267 [locus_tag=K4A87_RS06810]
+[protein=hypothetical protein] [pseudo=true] [partial=5',3']
+[location=<1457179..>1457793] [gbkey=CDS]
+
+Length=615
+Query= lcl|NZ_CP082178.1_cds_WP_208590435.1_1268 [locus_tag=K4A87_RS06815]
+[protein=DUF1629 domain-containing protein]
+[protein_id=WP_208590435.1] [location=1457870..1458499] [gbkey=CDS]
+
+Length=630
+Query= lcl|NZ_CP082178.1_cds_WP_208591590.1_1270 [locus_tag=K4A87_RS06825]
+[protein=DUF1629 domain-containing protein]
+[protein_id=WP_208591590.1] [location=1462425..1463069] [gbkey=CDS]
+
+Length=645
+Query= lcl|NZ_CP082178.1_cds_1271 [locus_tag=K4A87_RS06830] [protein=AHH
+domain-containing protein] [pseudo=true] [partial=3']
+[location=1463072..>1463254] [gbkey=CDS]
+
+Length=183
+Query= lcl|NZ_CP082178.1_cds_1272 [locus_tag=K4A87_RS06835]
+[protein=hypothetical protein] [pseudo=true] [partial=3']
+[location=1463336..>1465020] [gbkey=CDS]
+
+Length=1685
+Query= lcl|NZ_CP082178.1_cds_WP_208590437.1_1273 [locus_tag=K4A87_RS06840]
+[protein=DUF1629 domain-containing protein]
+[protein_id=WP_208590437.1] [location=1465139..1465777] [gbkey=CDS]
+
+Length=639
+Query= lcl|NZ_CP082178.1_cds_1274 [locus_tag=K4A87_RS06845] [protein=AHH
+domain-containing protein] [pseudo=true] [partial=3']
+[location=1465810..>1466016] [gbkey=CDS]
+
+Length=207
+Query= lcl|NZ_CP082178.1_cds_WP_238135751.1_1275 [locus_tag=K4A87_RS06850]
+[protein=hypothetical protein] [protein_id=WP_238135751.1]
+[location=complement(1465969..1466169)] [gbkey=CDS]
+
+Length=201
+Query= lcl|NZ_CP082178.1_cds_1276 [locus_tag=K4A87_RS06855]
+[protein=hypothetical protein] [pseudo=true] [partial=3']
+[location=1466095..>1467387] [gbkey=CDS]
+
+Length=1293
+Query= lcl|NZ_CP082178.1_cds_WP_208590441.1_1277 [locus_tag=K4A87_RS06860]
+[protein=DUF1629 domain-containing protein]
+[protein_id=WP_208590441.1] [location=1467462..1468091] [gbkey=CDS]
+
+Length=630
+Query= lcl|NZ_CP082178.1_cds_WP_208590443.1_1279 [locus_tag=K4A87_RS06870]
+[protein=hypothetical protein] [protein_id=WP_208590443.1]
+[location=1472241..1472888] [gbkey=CDS]
+
+Length=648
+Query= lcl|NZ_CP082178.1_cds_WP_208590444.1_1280 [locus_tag=K4A87_RS06875]
+[protein=hypothetical protein] [protein_id=WP_208590444.1]
+[location=1472951..1473319] [gbkey=CDS]
+
+Length=369
+Query= lcl|NZ_CP082178.1_cds_WP_208590546.1_1315 [gene=ykgO]
+[locus_tag=K4A87_RS07065] [protein=type B 50S ribosomal protein L36]
+[protein_id=WP_208590546.1] [location=complement(1512800..1512925)]
+[gbkey=CDS]
+
+Length=126
+Query= lcl|NZ_CP082178.1_cds_1333 [locus_tag=K4A87_RS07155]
+[protein=transposase] [pseudo=true] [partial=5']
+[location=<1533027..1533560] [gbkey=CDS]
+
+Length=534
+Query= lcl|NZ_CP082178.1_cds_WP_208590579.1_1334 [locus_tag=K4A87_RS07160]
+[protein=hypothetical protein] [protein_id=WP_208590579.1]
+[location=complement(1533644..1534138)] [gbkey=CDS]
+
+Length=495
+Query= lcl|NZ_CP082178.1_cds_1339 [locus_tag=K4A87_RS07185] [protein=IS30
+family transposase] [pseudo=true] [partial=5',3']
+[location=<1536750..>1536845] [gbkey=CDS]
+
+Length=96
+Query= lcl|NZ_CP082178.1_cds_1381 [locus_tag=K4A87_RS07420] [protein=IS701
+family transposase] [pseudo=true] [partial=5']
+[location=<1575302..1576587] [gbkey=CDS]
+
+Length=1286
+Query= lcl|NZ_CP082178.1_cds_WP_208590801.1_1409 [locus_tag=K4A87_RS07570]
+[protein=hypothetical protein] [protein_id=WP_208590801.1]
+[location=1620528..1620929] [gbkey=CDS]
+
+Length=402
+Query= lcl|NZ_CP082178.1_cds_WP_208590826.1_1424 [locus_tag=K4A87_RS07655]
+[protein=hypothetical protein] [protein_id=WP_208590826.1]
+[location=1637383..1637850] [gbkey=CDS]
+
+Length=468
+Query= lcl|NZ_CP082178.1_cds_WP_208590827.1_1425 [locus_tag=K4A87_RS07660]
+[protein=hypothetical protein] [protein_id=WP_208590827.1]
+[location=complement(1638082..1638273)] [gbkey=CDS]
+
+Length=192
+Query= lcl|NZ_CP082178.1_cds_WP_208590828.1_1426 [locus_tag=K4A87_RS07665]
+[protein=hypothetical protein] [protein_id=WP_208590828.1]
+[location=1638670..1639869] [gbkey=CDS]
+
+Length=1200
+Query= lcl|NZ_CP082178.1_cds_WP_208590833.1_1427 [locus_tag=K4A87_RS07670]
+[protein=biotin/lipoyl-binding protein] [protein_id=WP_208590833.1]
+[location=1640301..1641077] [gbkey=CDS]
+
+Length=777
+Query= lcl|NZ_CP082178.1_cds_WP_238135724.1_1432 [locus_tag=K4A87_RS07695]
+[protein=peptidase domain-containing ABC transporter]
+[protein_id=WP_238135724.1] [location=1643876..1645807] [gbkey=CDS]
+
+Length=1932
+Query= lcl|NZ_CP082178.1_cds_WP_208590844.1_1433 [locus_tag=K4A87_RS07700]
+[protein=thiopeptide-type bacteriocin biosynthesis protein]
+[protein_id=WP_208590844.1] [location=1645791..1648928] [gbkey=CDS]
+
+Length=3138
+Query= lcl|NZ_CP082178.1_cds_WP_208590845.1_1434 [locus_tag=K4A87_RS07705]
+[protein=S41 family peptidase] [protein_id=WP_208590845.1]
+[location=1648921..1650309] [gbkey=CDS]
+
+Length=1389
+Query= lcl|NZ_CP082178.1_cds_WP_208590846.1_1435 [locus_tag=K4A87_RS07710]
+[protein=Fic family protein] [protein_id=WP_208590846.1]
+[location=1650330..1651082] [gbkey=CDS]
+
+Length=753
+Query= lcl|NZ_CP082178.1_cds_WP_208590847.1_1436 [gene=radC]
+[locus_tag=K4A87_RS07715] [protein=DNA repair protein RadC]
+[protein_id=WP_208590847.1] [location=1651806..1652285] [gbkey=CDS]
+
+Length=480
+Query= lcl|NZ_CP082178.1_cds_WP_238135668.1_1437 [locus_tag=K4A87_RS07720]
+[protein=hypothetical protein] [protein_id=WP_238135668.1]
+[location=1652484..1653158] [gbkey=CDS]
+
+Length=675
+Query= lcl|NZ_CP082178.1_cds_WP_208590848.1_1438 [locus_tag=K4A87_RS07725]
+[protein=hypothetical protein] [protein_id=WP_208590848.1]
+[location=1653261..1653911] [gbkey=CDS]
+
+Length=651
+Query= lcl|NZ_CP082178.1_cds_WP_029996120.1_1439 [locus_tag=K4A87_RS07730]
+[protein=hypothetical protein] [protein_id=WP_029996120.1]
+[location=1654075..1654308] [gbkey=CDS]
+
+Length=234
+Query= lcl|NZ_CP082178.1_cds_WP_208590850.1_1440 [locus_tag=K4A87_RS07735]
+[protein=ankyrin repeat domain-containing protein]
+[protein_id=WP_208590850.1] [location=1654401..1655468] [gbkey=CDS]
+
+Length=1068
+Query= lcl|NZ_CP082178.1_cds_WP_238135669.1_1441 [locus_tag=K4A87_RS07740]
+[protein=hypothetical protein] [protein_id=WP_238135669.1]
+[location=complement(1655522..1656253)] [gbkey=CDS]
+
+Length=732
+Query= lcl|NZ_CP082178.1_cds_WP_238135670.1_1442 [locus_tag=K4A87_RS07745]
+[protein=hypothetical protein] [protein_id=WP_238135670.1]
+[location=complement(1656277..1656876)] [gbkey=CDS]
+
+Length=600
+Query= lcl|NZ_CP082178.1_cds_WP_200866425.1_1444 [locus_tag=K4A87_RS07755]
+[protein=hypothetical protein] [protein_id=WP_200866425.1]
+[location=complement(1658586..1659248)] [gbkey=CDS]
+
+Length=663
+Query= lcl|NZ_CP082178.1_cds_WP_238135671.1_1447 [locus_tag=K4A87_RS07770]
+[protein=AAA family ATPase] [protein_id=WP_238135671.1]
+[location=1660973..1662718] [gbkey=CDS]
+
+Length=1746
+Query= lcl|NZ_CP082178.1_cds_WP_238135672.1_1449 [locus_tag=K4A87_RS07780]
+[protein=ATP-binding domain-containing protein]
+[protein_id=WP_238135672.1] [location=1663996..1664550] [gbkey=CDS]
+
+Length=555
+Query= lcl|NZ_CP082178.1_cds_WP_208590853.1_1450 [locus_tag=K4A87_RS07785]
+[protein=hypothetical protein] [protein_id=WP_208590853.1]
+[location=1664813..1665481] [gbkey=CDS]
+
+Length=669
+Query= lcl|NZ_CP082178.1_cds_WP_208590855.1_1451 [locus_tag=K4A87_RS07790]
+[protein=hypothetical protein] [protein_id=WP_208590855.1]
+[location=1665604..1666104] [gbkey=CDS]
+
+Length=501
+Query= lcl|NZ_CP082178.1_cds_WP_238135673.1_1452 [locus_tag=K4A87_RS07795]
+[protein=site-specific integrase] [protein_id=WP_238135673.1]
+[location=complement(1666445..1667836)] [gbkey=CDS]
+
+Length=1392
+Query= lcl|NZ_CP082178.1_cds_WP_208590871.1_1461 [locus_tag=K4A87_RS07840]
+[protein=toxin-activating lysine-acyltransferase]
+[protein_id=WP_208590871.1] [location=complement(1676557..1676988)]
+[gbkey=CDS]
+
+Length=432
+Query= lcl|NZ_CP082178.1_cds_WP_208590873.1_1462 [locus_tag=K4A87_RS07845]
+[protein=protein adenylyltransferase SelO family protein]
+[protein_id=WP_208590873.1] [location=complement(1676978..1678792)]
+[gbkey=CDS]
+
+Length=1815
+Query= lcl|NZ_CP082178.1_cds_WP_238135675.1_1464 [locus_tag=K4A87_RS07855]
+[protein=hypothetical protein] [protein_id=WP_238135675.1]
+[location=1681381..1681794] [gbkey=CDS]
+
+Length=414
+Query= lcl|NZ_CP082178.1_cds_WP_238135676.1_1466 [locus_tag=K4A87_RS07865]
+[protein=hypothetical protein] [protein_id=WP_238135676.1]
+[location=1683017..1683376] [gbkey=CDS]
+
+Length=360
+Query= lcl|NZ_CP082178.1_cds_WP_238135677.1_1467 [locus_tag=K4A87_RS07870]
+[protein=hypothetical protein] [protein_id=WP_238135677.1]
+[location=complement(1683524..1684843)] [gbkey=CDS]
+
+Length=1320
+Query= lcl|NZ_CP082178.1_cds_WP_208590888.1_1470 [locus_tag=K4A87_RS07890]
+[protein=primosomal replication protein PriB/PriC domain protein]
+[protein_id=WP_208590888.1] [location=1688291..1688506] [gbkey=CDS]
+
+Length=216
+Query= lcl|NZ_CP082178.1_cds_WP_208590910.1_1476 [locus_tag=K4A87_RS07920]
+[protein=hypothetical protein] [protein_id=WP_208590910.1]
+[location=1696613..1697029] [gbkey=CDS]
+
+Length=417
+Query= lcl|NZ_CP082178.1_cds_1477 [locus_tag=K4A87_RS07925]
+[protein=helix-turn-helix domain-containing protein] [pseudo=true]
+[partial=5'] [location=complement(1697432..>1697823)] [gbkey=CDS]
+
+Length=392
+Query= lcl|NZ_CP082178.1_cds_WP_208590953.1_1490 [locus_tag=K4A87_RS07990]
+[protein=hypothetical protein] [protein_id=WP_208590953.1]
+[location=1709397..1709828] [gbkey=CDS]
+
+Length=432
+Query= lcl|NZ_CP082178.1_cds_1492 [locus_tag=K4A87_RS08000]
+[protein=hypothetical protein] [pseudo=true] [partial=5']
+[location=<1711822..1712298] [gbkey=CDS]
+
+Length=477
+Query= lcl|NZ_CP082178.1_cds_1512 [locus_tag=K4A87_RS08100]
+[protein=nuclear transport factor 2 family protein] [pseudo=true]
+[partial=5',3'] [location=<1730773..>1731012] [gbkey=CDS]
+
+Length=240
+Query= lcl|NZ_CP082178.1_cds_1545 [locus_tag=K4A87_RS08290]
+[protein=hypothetical protein] [pseudo=true] [partial=5']
+[location=complement(1773384..>1773581)] [gbkey=CDS]
+
+Length=198
+Query= lcl|NZ_CP082178.1_cds_WP_208591622.1_1550 [locus_tag=K4A87_RS08320]
+[protein=hypothetical protein] [protein_id=WP_208591622.1]
+[location=complement(1782223..1782756)] [gbkey=CDS]
+
+Length=534
+Query= lcl|NZ_CP082178.1_cds_1551 [locus_tag=K4A87_RS08325]
+[protein=hypothetical protein] [pseudo=true]
+[location=1783183..1783834] [gbkey=CDS]
+
+Length=652
+Query= lcl|NZ_CP082178.1_cds_WP_238135683.1_1562 [locus_tag=K4A87_RS08380]
+[protein=hypothetical protein] [protein_id=WP_238135683.1]
+[location=1794351..1794734] [gbkey=CDS]
+
+Length=384
+Query= lcl|NZ_CP082178.1_cds_WP_208586408.1_1572 [locus_tag=K4A87_RS08430]
+[protein=IS30 family transposase] [protein_id=WP_208586408.1]
+[location=complement(1804135..1805151)] [gbkey=CDS]
+
+Length=1017
+Query= lcl|NZ_CP082178.1_cds_WP_208591163.1_1576 [locus_tag=K4A87_RS08450]
+[protein=hypothetical protein] [protein_id=WP_208591163.1]
+[location=complement(1808910..1809368)] [gbkey=CDS]
+
+Length=459
+Query= lcl|NZ_CP082178.1_cds_WP_238135725.1_1577 [locus_tag=K4A87_RS08455]
+[protein=zeta toxin family protein] [protein_id=WP_238135725.1]
+[location=complement(1809386..1809607)] [gbkey=CDS]
+
+Length=222
+Query= lcl|NZ_CP082178.1_cds_WP_208591168.1_1580 [locus_tag=K4A87_RS08470]
+[protein=peptidoglycan-binding protein] [protein_id=WP_208591168.1]
+[location=complement(1811162..1811455)] [gbkey=CDS]
+
+Length=294
+Query= lcl|NZ_CP082178.1_cds_WP_208591186.1_1584 [locus_tag=K4A87_RS08490]
+[protein=hypothetical protein] [protein_id=WP_208591186.1]
+[location=complement(1818217..1818357)] [gbkey=CDS]
+
+Length=141
+Query= lcl|NZ_CP082178.1_cds_1600 [locus_tag=K4A87_RS08585]
+[protein=DegT/DnrJ/EryC1/StrS family aminotransferase] [pseudo=true]
+[partial=5',3'] [location=complement(<1834403..>1834519)]
+[gbkey=CDS]
+
+Length=117
+Query= lcl|NZ_CP082178.1_cds_1670 [locus_tag=K4A87_RS08955]
+[protein=diguanylate phosphodiesterase] [pseudo=true] [partial=3']
+[location=complement(<1910086..1910310)] [gbkey=CDS]
+
+Length=225
+Query= lcl|NZ_CP082178.1_cds_WP_208591357.1_1682 [locus_tag=K4A87_RS09020]
+[protein=hypothetical protein] [protein_id=WP_208591357.1]
+[location=1941233..1941406] [gbkey=CDS]
+
+Length=174
+Query= lcl|NZ_CP082178.1_cds_WP_208591871.1_1683 [locus_tag=K4A87_RS09025]
+[protein=hypothetical protein] [protein_id=WP_208591871.1]
+[location=1941399..1941551] [gbkey=CDS]
+
+Length=153
+Query= lcl|NZ_CP082178.1_cds_WP_208591366.1_1686 [locus_tag=K4A87_RS09040]
+[protein=hypothetical protein] [protein_id=WP_208591366.1]
+[location=1943052..1943303] [gbkey=CDS]
+
+Length=252
+Query= lcl|NZ_CP082178.1_cds_WP_208591368.1_1687 [locus_tag=K4A87_RS09045]
+[protein=capsid protein] [protein_id=WP_208591368.1]
+[location=1943334..1943462] [gbkey=CDS]
+
+Length=129
+Query= lcl|NZ_CP082178.1_cds_WP_238135690.1_1688 [locus_tag=K4A87_RS09050]
+[protein=hypothetical protein] [protein_id=WP_238135690.1]
+[location=1943648..1944760] [gbkey=CDS]
+
+Length=1113
+Query= lcl|NZ_CP082178.1_cds_WP_208591370.1_1689 [locus_tag=K4A87_RS09055]
+[protein=phage coat protein] [protein_id=WP_208591370.1]
+[location=1944771..1945091] [gbkey=CDS]
+
+Length=321
+Query= lcl|NZ_CP082178.1_cds_WP_208591372.1_1690 [locus_tag=K4A87_RS09060]
+[protein=zonular occludens toxin domain-containing protein]
+[protein_id=WP_208591372.1] [location=1945093..1946427] [gbkey=CDS]
+
+Length=1335
+Query= lcl|NZ_CP082178.1_cds_WP_208591373.1_1691 [locus_tag=K4A87_RS09065]
+[protein=hypothetical protein] [protein_id=WP_208591373.1]
+[location=1946516..1946794] [gbkey=CDS]
+
+Length=279
+Query= lcl|NZ_CP082178.1_cds_WP_208591374.1_1692 [locus_tag=K4A87_RS09070]
+[protein=hypothetical protein] [protein_id=WP_208591374.1]
+[location=1946822..1946983] [gbkey=CDS]
+
+Length=162
+Query= lcl|NZ_CP082178.1_cds_WP_208591649.1_1693 [locus_tag=K4A87_RS09075]
+[protein=hypothetical protein] [protein_id=WP_208591649.1]
+[location=complement(1947240..1947848)] [gbkey=CDS]
+
+Length=609
+Query= lcl|NZ_CP082178.1_cds_WP_238135729.1_1695 [locus_tag=K4A87_RS09085]
+[protein=hypothetical protein] [protein_id=WP_238135729.1]
+[location=1949181..1949405] [gbkey=CDS]
+
+Length=225
+Query= lcl|NZ_CP082178.1_cds_WP_238135691.1_1696 [locus_tag=K4A87_RS09090]
+[protein=hypothetical protein] [protein_id=WP_238135691.1]
+[location=complement(1949608..1949757)] [gbkey=CDS]
+
+Length=150
+Query= lcl|NZ_CP082178.1_cds_WP_238135692.1_1697 [locus_tag=K4A87_RS09095]
+[protein=hypothetical protein] [protein_id=WP_238135692.1]
+[location=complement(1949785..1950063)] [gbkey=CDS]
+
+Length=279
+Query= lcl|NZ_CP082178.1_cds_WP_238135693.1_1698 [locus_tag=K4A87_RS09100]
+[protein=zonular occludens toxin domain-containing protein]
+[protein_id=WP_238135693.1] [location=complement(1950152..1951486)]
+[gbkey=CDS]
+
+Length=1335
+Query= lcl|NZ_CP082178.1_cds_WP_208591370.1_1699 [locus_tag=K4A87_RS09105]
+[protein=phage coat protein] [protein_id=WP_208591370.1]
+[location=complement(1951488..1951808)] [gbkey=CDS]
+
+Length=321
+Query= lcl|NZ_CP082178.1_cds_WP_238135690.1_1700 [locus_tag=K4A87_RS09110]
+[protein=hypothetical protein] [protein_id=WP_238135690.1]
+[location=complement(1951819..1952931)] [gbkey=CDS]
+
+Length=1113
+Query= lcl|NZ_CP082178.1_cds_WP_208591368.1_1701 [locus_tag=K4A87_RS09115]
+[protein=capsid protein] [protein_id=WP_208591368.1]
+[location=complement(1953117..1953245)] [gbkey=CDS]
+
+Length=129
+Query= lcl|NZ_CP082178.1_cds_WP_208591366.1_1702 [locus_tag=K4A87_RS09120]
+[protein=hypothetical protein] [protein_id=WP_208591366.1]
+[location=complement(1953276..1953527)] [gbkey=CDS]
+
+Length=252
+Query= lcl|NZ_CP082178.1_cds_WP_238135694.1_1705 [locus_tag=K4A87_RS09135]
+[protein=hypothetical protein] [protein_id=WP_238135694.1]
+[location=complement(1955028..1955180)] [gbkey=CDS]
+
+Length=153
+Query= lcl|NZ_CP082178.1_cds_WP_238135695.1_1706 [locus_tag=K4A87_RS09140]
+[protein=hypothetical protein] [protein_id=WP_238135695.1]
+[location=complement(1955173..1955328)] [gbkey=CDS]
+
+Length=156
+Query= lcl|NZ_CP082178.1_cds_WP_238135696.1_1707 [locus_tag=K4A87_RS09145]
+[protein=DUF3693 domain-containing protein]
+[protein_id=WP_238135696.1] [location=1955533..1956321] [gbkey=CDS]
+
+Length=789
+Query= lcl|NZ_CP082178.1_cds_WP_238135691.1_1708 [locus_tag=K4A87_RS09150]
+[protein=hypothetical protein] [protein_id=WP_238135691.1]
+[location=complement(1956524..1956673)] [gbkey=CDS]
+
+Length=150
+Query= lcl|NZ_CP082178.1_cds_WP_238135692.1_1709 [locus_tag=K4A87_RS09155]
+[protein=hypothetical protein] [protein_id=WP_238135692.1]
+[location=complement(1956701..1956979)] [gbkey=CDS]
+
+Length=279
+Query= lcl|NZ_CP082178.1_cds_WP_238135693.1_1710 [locus_tag=K4A87_RS09160]
+[protein=zonular occludens toxin domain-containing protein]
+[protein_id=WP_238135693.1] [location=complement(1957068..1958402)]
+[gbkey=CDS]
+
+Length=1335
+Query= lcl|NZ_CP082178.1_cds_WP_208591370.1_1711 [locus_tag=K4A87_RS09165]
+[protein=phage coat protein] [protein_id=WP_208591370.1]
+[location=complement(1958404..1958724)] [gbkey=CDS]
+
+Length=321
+Query= lcl|NZ_CP082178.1_cds_WP_238135697.1_1712 [locus_tag=K4A87_RS09170]
+[protein=hypothetical protein] [protein_id=WP_238135697.1]
+[location=complement(1958735..1959565)] [gbkey=CDS]
+
+Length=831
+Query= lcl|NZ_CP082178.1_cds_WP_015471906.1_1713 [locus_tag=K4A87_RS09175]
+[protein=hypothetical protein] [protein_id=WP_015471906.1]
+[location=complement(1960033..1960161)] [gbkey=CDS]
+
+Length=129
+Query= lcl|NZ_CP082178.1_cds_WP_238135698.1_1714 [locus_tag=K4A87_RS09180]
+[protein=hypothetical protein] [protein_id=WP_238135698.1]
+[location=complement(1960192..1960443)] [gbkey=CDS]
+
+Length=252
+Query= lcl|NZ_CP082178.1_cds_WP_238135699.1_1715 [locus_tag=K4A87_RS09185]
+[protein=single-stranded DNA-binding protein]
+[protein_id=WP_238135699.1] [location=complement(1960447..1960743)]
+[gbkey=CDS]
+
+Length=297
+Query= lcl|NZ_CP082178.1_cds_WP_208591342.1_1717 [locus_tag=K4A87_RS09195]
+[protein=hypothetical protein] [protein_id=WP_208591342.1]
+[location=complement(1961839..1962021)] [gbkey=CDS]
+
+Length=183
+Query= lcl|NZ_CP082178.1_cds_WP_238135701.1_1718 [locus_tag=K4A87_RS09200]
+[protein=hypothetical protein] [protein_id=WP_238135701.1]
+[location=complement(1962018..1962242)] [gbkey=CDS]
+
+Length=225
+Query= lcl|NZ_CP082178.1_cds_WP_208591381.1_1728 [locus_tag=K4A87_RS09255]
+[protein=hypothetical protein] [protein_id=WP_208591381.1]
+[location=1973207..1973725] [gbkey=CDS]
+
+Length=519
+Query= lcl|NZ_CP082178.1_cds_WP_208591384.1_1729 [locus_tag=K4A87_RS09260]
+[protein=hypothetical protein] [protein_id=WP_208591384.1]
+[location=1973727..1974539] [gbkey=CDS]
+
+Length=813
+Query= lcl|NZ_CP082178.1_cds_WP_208591386.1_1730 [gene=fni]
+[locus_tag=K4A87_RS09265] [protein=type 2 isopentenyl-diphosphate
+Delta-isomerase] [protein_id=WP_208591386.1]
+[location=complement(1975388..1976494)] [gbkey=CDS]
+
+Length=1107
+Query= lcl|NZ_CP082178.1_cds_WP_208591387.1_1731 [locus_tag=K4A87_RS09270]
+[protein=hypothetical protein] [protein_id=WP_208591387.1]
+[location=complement(1976481..1977383)] [gbkey=CDS]
+
+Length=903
+Query= lcl|NZ_CP082178.1_cds_WP_208591388.1_1732 [locus_tag=K4A87_RS09275]
+[protein=hypothetical protein] [protein_id=WP_208591388.1]
+[location=complement(1977380..1978939)] [gbkey=CDS]
+
+Length=1560
+Query= lcl|NZ_CP082178.1_cds_WP_208591653.1_1733 [locus_tag=K4A87_RS09280]
+[protein=polyprenyl synthetase family protein]
+[protein_id=WP_208591653.1] [location=complement(1978936..1979850)]
+[gbkey=CDS]
+
+Length=915
+Query= lcl|NZ_CP082178.1_cds_WP_208591391.1_1734 [locus_tag=K4A87_RS09285]
+[protein=cytochrome P450] [protein_id=WP_208591391.1]
+[location=complement(1980041..1981384)] [gbkey=CDS]
+
+Length=1344
+Query= lcl|NZ_CP082178.1_cds_WP_208591392.1_1735 [locus_tag=K4A87_RS09290]
+[protein=glucose 1-dehydrogenase] [protein_id=WP_208591392.1]
+[location=complement(1981384..1982229)] [gbkey=CDS]
+
+Length=846
+Query= lcl|NZ_CP082178.1_cds_WP_208591655.1_1736 [locus_tag=K4A87_RS09295]
+[protein=ferredoxin] [protein_id=WP_208591655.1]
+[location=complement(1982216..1982521)] [gbkey=CDS]
+
+Length=306
+Query= lcl|NZ_CP082178.1_cds_WP_238135702.1_1737 [locus_tag=K4A87_RS09300]
+[protein=cytochrome P450] [protein_id=WP_238135702.1]
+[location=complement(1982523..1983854)] [gbkey=CDS]
+
+Length=1332
+Query= lcl|NZ_CP082178.1_cds_WP_238135703.1_1738 [locus_tag=K4A87_RS09305]
+[protein=cytochrome P450] [protein_id=WP_238135703.1]
+[location=complement(1983910..1985097)] [gbkey=CDS]
+
+Length=1188
+Query= lcl|NZ_CP082178.1_cds_WP_238135704.1_1739 [locus_tag=K4A87_RS09310]
+[protein=cytochrome P450] [protein_id=WP_238135704.1]
+[location=complement(1985125..1986288)] [gbkey=CDS]
+
+Length=1164
+Query= lcl|NZ_CP082178.1_cds_WP_208591872.1_1740 [locus_tag=K4A87_RS09315]
+[protein=hypothetical protein] [protein_id=WP_208591872.1]
+[location=complement(1986447..1986683)] [gbkey=CDS]
+
+Length=237
+Query= lcl|NZ_CP082178.1_cds_WP_238135705.1_1743 [locus_tag=K4A87_RS09330]
+[protein=avirulence protein] [protein_id=WP_238135705.1]
+[location=1988492..1989448] [gbkey=CDS]
+
+Length=957
+Query= lcl|NZ_CP082178.1_cds_WP_208591411.1_1751 [locus_tag=K4A87_RS09380]
+[protein=non-ribosomal peptide synthetase]
+[protein_id=WP_208591411.1] [location=complement(1996366..2004792)]
+[gbkey=CDS]
+
+Length=8427
+Query= lcl|NZ_CP082178.1_cds_WP_208591663.1_1752 [locus_tag=K4A87_RS09385]
+[protein=non-ribosomal peptide synthetase]
+[protein_id=WP_208591663.1] [location=complement(2004789..2014382)]
+[gbkey=CDS]
+
+Length=9594
+Query= lcl|NZ_CP082178.1_cds_1807 [locus_tag=K4A87_RS09715] [protein=xapx
+domain-containing protein] [pseudo=true]
+[location=complement(2071207..2071414)] [gbkey=CDS]
+
+Length=208
+Query= lcl|NZ_CP082178.1_cds_1808 [locus_tag=K4A87_RS09720] [protein=MFS
+transporter] [pseudo=true] [partial=5',3']
+[location=complement(<2071425..>2071565)] [gbkey=CDS]
+
+Length=141
+Query= lcl|NZ_CP082178.1_cds_1809 [locus_tag=K4A87_RS09725]
+[protein=histidine kinase] [pseudo=true] [partial=5']
+[location=<2071545..2072468] [gbkey=CDS]
+
+Length=924
+Query= lcl|NZ_CP082178.1_cds_1835 [locus_tag=K4A87_RS09865]
+[protein=cytochrome c family protein] [pseudo=true] [partial=5',3']
+[location=<2097749..>2097880] [gbkey=CDS]
+
+Length=132
+Query= lcl|NZ_CP082178.1_cds_1846 [locus_tag=K4A87_RS09925]
+[protein=IS5/IS1182 family transposase] [pseudo=true]
+[partial=5',3'] [location=complement(<2105326..>2105424)]
+[gbkey=CDS]
+
+Length=99
+Query= lcl|NZ_CP082178.1_cds_1849 [locus_tag=K4A87_RS09940]
+[protein=response regulator] [pseudo=true] [partial=5']
+[location=<2109198..2109365] [gbkey=CDS]
+
+Length=168
+Query= lcl|NZ_CP082178.1_cds_1862 [locus_tag=K4A87_RS10005]
+[protein=hypothetical protein] [pseudo=true] [partial=5']
+[location=<2120811..2121188] [gbkey=CDS]
+
+Length=378
+Query= lcl|NZ_CP082178.1_cds_WP_208586284.1_1870 [locus_tag=K4A87_RS10050]
+[protein=hypothetical protein] [protein_id=WP_208586284.1]
+[location=complement(2130640..2131542)] [gbkey=CDS]
+
+Length=903
+Query= lcl|NZ_CP082178.1_cds_WP_208586286.1_1871 [locus_tag=K4A87_RS10055]
+[protein=hypothetical protein] [protein_id=WP_208586286.1]
+[location=complement(2131598..2132113)] [gbkey=CDS]
+
+Length=516
+Query= lcl|NZ_CP082178.1_cds_1878 [locus_tag=K4A87_RS10095]
+[protein=aminotransferase class I/II-fold pyridoxal
+phosphate-dependent enzyme] [pseudo=true] [partial=3']
+[location=2142563..>2143126] [gbkey=CDS]
+
+Length=564
+Query= lcl|NZ_CP082178.1_cds_WP_208586299.1_1879 [locus_tag=K4A87_RS10100]
+[protein=hypothetical protein] [protein_id=WP_208586299.1]
+[location=complement(2143351..2143734)] [gbkey=CDS]
+
+Length=384
+Query= lcl|NZ_CP082178.1_cds_WP_208586313.1_1887 [locus_tag=K4A87_RS10140]
+[protein=hypothetical protein] [protein_id=WP_208586313.1]
+[location=2151868..2152119] [gbkey=CDS]
+
+Length=252
+Query= lcl|NZ_CP082178.1_cds_WP_208591839.1_1949 [locus_tag=K4A87_RS10460]
+[protein=hypothetical protein] [protein_id=WP_208591839.1]
+[location=2214189..2214353] [gbkey=CDS]
+
+Length=165
+Query= lcl|NZ_CP082178.1_cds_WP_238135507.1_1951 [locus_tag=K4A87_RS10470]
+[protein=DUF3060 domain-containing protein]
+[protein_id=WP_238135507.1] [location=2215816..2216217] [gbkey=CDS]
+
+Length=402
+Query= lcl|NZ_CP082178.1_cds_WP_208586404.1_1953 [locus_tag=K4A87_RS10480]
+[protein=pectate lyase] [protein_id=WP_208586404.1]
+[location=complement(2217106..2218239)] [gbkey=CDS]
+
+Length=1134
+Query= lcl|NZ_CP082178.1_cds_WP_208586408.1_1955 [locus_tag=K4A87_RS10495]
+[protein=IS30 family transposase] [protein_id=WP_208586408.1]
+[location=complement(2219951..2220967)] [gbkey=CDS]
+
+Length=1017
+Query= lcl|NZ_CP082178.1_cds_WP_208586440.1_1985 [locus_tag=K4A87_RS10655]
+[protein=lysozyme inhibitor LprI family protein]
+[protein_id=WP_208586440.1] [location=complement(2256666..2257244)]
+[gbkey=CDS]
+
+Length=579
+Query= lcl|NZ_CP082178.1_cds_WP_208591680.1_1986 [locus_tag=K4A87_RS10660]
+[protein=DUF4189 domain-containing protein]
+[protein_id=WP_208591680.1] [location=complement(2257323..2257784)]
+[gbkey=CDS]
+
+Length=462
+Query= lcl|NZ_CP082178.1_cds_WP_238135508.1_1988 [locus_tag=K4A87_RS10670]
+[protein=hypothetical protein] [protein_id=WP_238135508.1]
+[location=complement(2258990..2259790)] [gbkey=CDS]
+
+Length=801
+Query= lcl|NZ_CP082178.1_cds_WP_238135509.1_1992 [locus_tag=K4A87_RS10690]
+[protein=FG-GAP repeat protein] [protein_id=WP_238135509.1]
+[location=complement(2264984..2265772)] [gbkey=CDS]
+
+Length=789
+Query= lcl|NZ_CP082178.1_cds_WP_208586445.1_1994 [locus_tag=K4A87_RS10700]
+[protein=DUF4189 domain-containing protein]
+[protein_id=WP_208586445.1] [location=complement(2267196..2267693)]
+[gbkey=CDS]
+
+Length=498
+Query= lcl|NZ_CP082178.1_cds_WP_238135508.1_1996 [locus_tag=K4A87_RS10710]
+[protein=hypothetical protein] [protein_id=WP_238135508.1]
+[location=complement(2268911..2269711)] [gbkey=CDS]
+
+Length=801
+Query= lcl|NZ_CP082178.1_cds_WP_238135511.1_2000 [locus_tag=K4A87_RS10730]
+[protein=DUF4189 domain-containing protein]
+[protein_id=WP_238135511.1] [location=complement(2272775..2273239)]
+[gbkey=CDS]
+
+Length=465
+Query= lcl|NZ_CP082178.1_cds_WP_238135508.1_2002 [locus_tag=K4A87_RS10740]
+[protein=hypothetical protein] [protein_id=WP_238135508.1]
+[location=complement(2274462..2275262)] [gbkey=CDS]
+
+Length=801
+Query= lcl|NZ_CP082178.1_cds_WP_238135512.1_2005 [locus_tag=K4A87_RS10755]
+[protein=hypothetical protein] [protein_id=WP_238135512.1]
+[location=complement(2279187..2279966)] [gbkey=CDS]
+
+Length=780
+Query= lcl|NZ_CP082178.1_cds_WP_208586457.1_2006 [locus_tag=K4A87_RS10760]
+[protein=DUF4189 domain-containing protein]
+[protein_id=WP_208586457.1] [location=complement(2280217..2280705)]
+[gbkey=CDS]
+
+Length=489
+Query= lcl|NZ_CP082178.1_cds_WP_238135508.1_2008 [locus_tag=K4A87_RS10770]
+[protein=hypothetical protein] [protein_id=WP_238135508.1]
+[location=complement(2281908..2282708)] [gbkey=CDS]
+
+Length=801
+Query= lcl|NZ_CP082178.1_cds_2018 [locus_tag=K4A87_RS10820] [protein=type
+IV secretory system conjugative DNA transfer family protein]
+[pseudo=true] [partial=5'] [location=complement(2291765..>2292125)]
+[gbkey=CDS]
+
+Length=361
+Query= lcl|NZ_CP082178.1_cds_WP_208586500.1_2048 [locus_tag=K4A87_RS10990]
+[protein=hypothetical protein] [protein_id=WP_208586500.1]
+[location=2321951..2322325] [gbkey=CDS]
+
+Length=375
+Query= lcl|NZ_CP082178.1_cds_2084 [locus_tag=K4A87_RS11170]
+[protein=virulence factor] [pseudo=true] [partial=5',3']
+[location=complement(<2360711..>2360812)] [gbkey=CDS]
+
+Length=102
+Query= lcl|NZ_CP082178.1_cds_WP_208586667.1_2180 [locus_tag=K4A87_RS11695]
+[protein=hypothetical protein] [protein_id=WP_208586667.1]
+[location=2464298..2464909] [gbkey=CDS]
+
+Length=612
+Query= lcl|NZ_CP082178.1_cds_WP_208586671.1_2182 [locus_tag=K4A87_RS11705]
+[protein=tyrosine protein phosphatase] [protein_id=WP_208586671.1]
+[location=complement(2465868..2466938)] [gbkey=CDS]
+
+Length=1071
+Query= lcl|NZ_CP082178.1_cds_WP_208586681.1_2193 [locus_tag=K4A87_RS11760]
+[protein=Ig-like domain-containing protein]
+[protein_id=WP_208586681.1] [location=complement(2483058..2487425)]
+[gbkey=CDS]
+
+Length=4368
+Query= lcl|NZ_CP082178.1_cds_WP_208586683.1_2195 [locus_tag=K4A87_RS11770]
+[protein=hypothetical protein] [protein_id=WP_208586683.1]
+[location=complement(2488103..2488279)] [gbkey=CDS]
+
+Length=177
+Query= lcl|NZ_CP082178.1_cds_WP_208586408.1_2200 [locus_tag=K4A87_RS11800]
+[protein=IS30 family transposase] [protein_id=WP_208586408.1]
+[location=complement(2498484..2499500)] [gbkey=CDS]
+
+Length=1017
+Query= lcl|NZ_CP082178.1_cds_WP_208591840.1_2202 [locus_tag=K4A87_RS11810]
+[protein=hypothetical protein] [protein_id=WP_208591840.1]
+[location=complement(2500472..2500930)] [gbkey=CDS]
+
+Length=459
+Query= lcl|NZ_CP082178.1_cds_2203 [locus_tag=K4A87_RS11815]
+[protein=hypothetical protein] [pseudo=true]
+[location=complement(2500970..2501441)] [gbkey=CDS]
+
+Length=472
+Query= lcl|NZ_CP082178.1_cds_WP_208586689.1_2204 [locus_tag=K4A87_RS11820]
+[protein=NYN domain-containing protein] [protein_id=WP_208586689.1]
+[location=2501723..2502427] [gbkey=CDS]
+
+Length=705
+Query= lcl|NZ_CP082178.1_cds_WP_208586690.1_2205 [locus_tag=K4A87_RS11825]
+[protein=AAA family ATPase] [protein_id=WP_208586690.1]
+[location=2502640..2504304] [gbkey=CDS]
+
+Length=1665
+Query= lcl|NZ_CP082178.1_cds_WP_208591717.1_2206 [locus_tag=K4A87_RS11830]
+[protein=helix-turn-helix domain-containing protein]
+[protein_id=WP_208591717.1] [location=2504580..2504780] [gbkey=CDS]
+
+Length=201
+Query= lcl|NZ_CP082178.1_cds_WP_208586716.1_2226 [locus_tag=K4A87_RS11930]
+[protein=hypothetical protein] [protein_id=WP_208586716.1]
+[location=2529082..2530110] [gbkey=CDS]
+
+Length=1029
+Query= lcl|NZ_CP082178.1_cds_WP_208586717.1_2227 [locus_tag=K4A87_RS11935]
+[protein=trypsin-like peptidase domain-containing protein]
+[protein_id=WP_208586717.1] [location=complement(2530597..2531622)]
+[gbkey=CDS]
+
+Length=1026
+Query= lcl|NZ_CP082178.1_cds_WP_208586718.1_2228 [locus_tag=K4A87_RS11940]
+[protein=hypothetical protein] [protein_id=WP_208586718.1]
+[location=complement(2531647..2532837)] [gbkey=CDS]
+
+Length=1191
+Query= lcl|NZ_CP082178.1_cds_WP_208586719.1_2229 [locus_tag=K4A87_RS11945]
+[protein=helix-turn-helix domain-containing protein]
+[protein_id=WP_208586719.1] [location=complement(2532864..2533193)]
+[gbkey=CDS]
+
+Length=330
+Query= lcl|NZ_CP082178.1_cds_WP_208586720.1_2230 [locus_tag=K4A87_RS11950]
+[protein=hypothetical protein] [protein_id=WP_208586720.1]
+[location=2533298..2534050] [gbkey=CDS]
+
+Length=753
+Query= lcl|NZ_CP082178.1_cds_WP_208586721.1_2231 [locus_tag=K4A87_RS11955]
+[protein=hypothetical protein] [protein_id=WP_208586721.1]
+[location=2534096..2534410] [gbkey=CDS]
+
+Length=315
+Query= lcl|NZ_CP082178.1_cds_WP_208586722.1_2232 [locus_tag=K4A87_RS11960]
+[protein=hypothetical protein] [protein_id=WP_208586722.1]
+[location=2534407..2534742] [gbkey=CDS]
+
+Length=336
+Query= lcl|NZ_CP082178.1_cds_WP_208586723.1_2233 [locus_tag=K4A87_RS11965]
+[protein=DNA-binding transcriptional regulator]
+[protein_id=WP_208586723.1] [location=complement(2534954..2535361)]
+[gbkey=CDS]
+
+Length=408
+Query= lcl|NZ_CP082178.1_cds_WP_238135516.1_2251 [locus_tag=K4A87_RS12060]
+[protein=hypothetical protein] [protein_id=WP_238135516.1]
+[location=2557985..2558188] [gbkey=CDS]
+
+Length=204
+Query= lcl|NZ_CP082178.1_cds_2267 [locus_tag=K4A87_RS12140] [protein=IS701
+family transposase] [pseudo=true]
+[location=complement(2573473..2574819)] [gbkey=CDS]
+
+Length=1347
+Query= lcl|NZ_CP082178.1_cds_WP_208586756.1_2268 [gene=radC]
+[locus_tag=K4A87_RS12150] [protein=DNA repair protein RadC]
+[protein_id=WP_208586756.1] [location=2575207..2575686] [gbkey=CDS]
+
+Length=480
+Query= lcl|NZ_CP082178.1_cds_WP_208586757.1_2269 [locus_tag=K4A87_RS12155]
+[protein=phophatidylserine decarboxylase associated
+domain-containing protein] [protein_id=WP_208586757.1]
+[location=complement(2575736..2577004)] [gbkey=CDS]
+
+Length=1269
+Query= lcl|NZ_CP082178.1_cds_WP_238135517.1_2270 [locus_tag=K4A87_RS12160]
+[protein=DNA-binding domain-containing protein]
+[protein_id=WP_238135517.1] [location=complement(2577036..2577923)]
+[gbkey=CDS]
+
+Length=888
+Query= lcl|NZ_CP082178.1_cds_WP_238135518.1_2271 [locus_tag=K4A87_RS12165]
+[protein=DUF692 domain-containing protein]
+[protein_id=WP_238135518.1] [location=complement(2577916..2578830)]
+[gbkey=CDS]
+
+Length=915
+Query= lcl|NZ_CP082178.1_cds_WP_238135519.1_2272 [locus_tag=K4A87_RS12170]
+[protein=ferritin-like protein] [protein_id=WP_238135519.1]
+[location=complement(2578900..2581071)] [gbkey=CDS]
+
+Length=2172
+Query= lcl|NZ_CP082178.1_cds_WP_208586760.1_2274 [locus_tag=K4A87_RS12180]
+[protein=methyl-accepting chemotaxis protein]
+[protein_id=WP_208586760.1] [location=2582637..2584883] [gbkey=CDS]
+
+Length=2247
+Query= lcl|NZ_CP082178.1_cds_2294 [locus_tag=K4A87_RS12290]
+[protein=DUF2272 domain-containing protein] [pseudo=true]
+[partial=3'] [location=2604892..>2605324] [gbkey=CDS]
+
+Length=433
+Query= lcl|NZ_CP082178.1_cds_WP_208586821.1_2326 [locus_tag=K4A87_RS12470]
+[protein=hypothetical protein] [protein_id=WP_208586821.1]
+[location=2640917..2641669] [gbkey=CDS]
+
+Length=753
+Query= lcl|NZ_CP082178.1_cds_WP_238135523.1_2344 [locus_tag=K4A87_RS12565]
+[protein=hypothetical protein] [protein_id=WP_238135523.1]
+[location=complement(2659137..2659469)] [gbkey=CDS]
+
+Length=333
+Query= lcl|NZ_CP082178.1_cds_WP_208586877.1_2370 [locus_tag=K4A87_RS12705]
+[protein=hypothetical protein] [protein_id=WP_208586877.1]
+[location=complement(2684560..2684721)] [gbkey=CDS]
+
+Length=162
+Query= lcl|NZ_CP082178.1_cds_WP_208586903.1_2388 [locus_tag=K4A87_RS12815]
+[protein=hypothetical protein] [protein_id=WP_208586903.1]
+[location=2711175..2711432] [gbkey=CDS]
+
+Length=258
+Query= lcl|NZ_CP082178.1_cds_WP_208586906.1_2389 [locus_tag=K4A87_RS12820]
+[protein=STAS domain-containing protein] [protein_id=WP_208586906.1]
+[location=2711751..2712080] [gbkey=CDS]
+
+Length=330
+Query= lcl|NZ_CP082178.1_cds_WP_208586907.1_2390 [locus_tag=K4A87_RS12825]
+[protein=chemotaxis protein CheA] [protein_id=WP_208586907.1]
+[location=2712099..2714108] [gbkey=CDS]
+
+Length=2010
+Query= lcl|NZ_CP082178.1_cds_WP_208586909.1_2391 [locus_tag=K4A87_RS12830]
+[protein=methyl-accepting chemotaxis protein]
+[protein_id=WP_208586909.1] [location=2714176..2716332] [gbkey=CDS]
+
+Length=2157
+Query= lcl|NZ_CP082178.1_cds_WP_208586911.1_2392 [locus_tag=K4A87_RS12835]
+[protein=chemotaxis protein CheW] [protein_id=WP_208586911.1]
+[location=2716343..2716858] [gbkey=CDS]
+
+Length=516
+Query= lcl|NZ_CP082178.1_cds_WP_208586913.1_2393 [locus_tag=K4A87_RS12840]
+[protein=EAL domain-containing response regulator]
+[protein_id=WP_208586913.1] [location=2716885..2718171] [gbkey=CDS]
+
+Length=1287
+Query= lcl|NZ_CP082178.1_cds_WP_208586915.1_2394 [locus_tag=K4A87_RS12845]
+[protein=protein-glutamate O-methyltransferase CheR]
+[protein_id=WP_208586915.1] [location=2718176..2718982] [gbkey=CDS]
+
+Length=807
+Query= lcl|NZ_CP082178.1_cds_2396 [locus_tag=K4A87_RS12855] [protein=IS1595
+family transposase] [pseudo=true] [partial=5']
+[location=<2720145..2720351] [gbkey=CDS]
+
+Length=207
+Query= lcl|NZ_CP082178.1_cds_2432 [locus_tag=K4A87_RS13045]
+[protein=peptidylprolyl isomerase] [pseudo=true] [partial=5']
+[location=<2756534..2756867] [gbkey=CDS]
+
+Length=334
+Query= lcl|NZ_CP082178.1_cds_2440 [locus_tag=K4A87_RS13090]
+[protein=IS5/IS1182 family transposase] [pseudo=true] [partial=3']
+[location=2764948..>2765054] [gbkey=CDS]
+
+Length=107
+Query= lcl|NZ_CP082178.1_cds_2449 [locus_tag=K4A87_RS13140]
+[protein=FAD-dependent oxidoreductase] [pseudo=true] [partial=5',3']
+[location=complement(<2772411..>2772584)] [gbkey=CDS]
+
+Length=174
+Query= lcl|NZ_CP082178.1_cds_WP_208586965.1_2453 [locus_tag=K4A87_RS13170]
+[protein=hypothetical protein] [protein_id=WP_208586965.1]
+[location=2777821..2778051] [gbkey=CDS]
+
+Length=231
+Query= lcl|NZ_CP082178.1_cds_2482 [locus_tag=K4A87_RS13320] [protein=PhoX
+family protein] [pseudo=true] [partial=5']
+[location=<2807417..2807942] [gbkey=CDS]
+
+Length=526
+Query= lcl|NZ_CP082178.1_cds_WP_208587035.1_2512 [locus_tag=K4A87_RS13475]
+[protein=hypothetical protein] [protein_id=WP_208587035.1]
+[location=2835784..2836053] [gbkey=CDS]
+
+Length=270
+Query= lcl|NZ_CP082178.1_cds_2525 [locus_tag=K4A87_RS13550] [protein=outer
+membrane channel protein] [pseudo=true] [partial=5',3']
+[location=complement(<2852112..>2852278)] [gbkey=CDS]
+
+Length=167
+Query= lcl|NZ_CP082178.1_cds_2549 [locus_tag=K4A87_RS13685] [protein=S8
+family serine peptidase] [pseudo=true] [partial=3']
+[location=2876745..>2877383] [gbkey=CDS]
+
+Length=639
+Query= lcl|NZ_CP082178.1_cds_2558 [locus_tag=K4A87_RS13740] [protein=GNAT
+family N-acetyltransferase] [pseudo=true] [partial=5']
+[location=complement(2884712..>2884954)] [gbkey=CDS]
+
+Length=243
+Query= lcl|NZ_CP082178.1_cds_2568 [locus_tag=K4A87_RS13790] [protein=IS701
+family transposase] [pseudo=true] [partial=3']
+[location=complement(<2894709..2895722)] [gbkey=CDS]
+
+Length=1014
+Query= lcl|NZ_CP082178.1_cds_2569 [locus_tag=K4A87_RS13795] [protein=JAB
+domain-containing protein] [pseudo=true] [partial=5']
+[location=complement(2895761..>2896010)] [gbkey=CDS]
+
+Length=250
+Query= lcl|NZ_CP082178.1_cds_WP_208587094.1_2570 [locus_tag=K4A87_RS13800]
+[protein=type III secretion system effector protein]
+[protein_id=WP_208587094.1] [location=2896237..2896878] [gbkey=CDS]
+
+Length=642
+Query= lcl|NZ_CP082178.1_cds_WP_238135531.1_2572 [locus_tag=K4A87_RS13810]
+[protein=hypothetical protein] [protein_id=WP_238135531.1]
+[location=complement(2897746..2898213)] [gbkey=CDS]
+
+Length=468
+Query= lcl|NZ_CP082178.1_cds_2626 [locus_tag=K4A87_RS14105]
+[protein=hypothetical protein] [pseudo=true] [partial=3']
+[location=complement(<2956835..2957098)] [gbkey=CDS]
+
+Length=264
+Query= lcl|NZ_CP082178.1_cds_WP_208587176.1_2634 [locus_tag=K4A87_RS14150]
+[protein=hypothetical protein] [protein_id=WP_208587176.1]
+[location=complement(2964602..2964871)] [gbkey=CDS]
+
+Length=270
+Query= lcl|NZ_CP082178.1_cds_WP_208586408.1_2635 [locus_tag=K4A87_RS14155]
+[protein=IS30 family transposase] [protein_id=WP_208586408.1]
+[location=2965207..2966223] [gbkey=CDS]
+
+Length=1017
+Query= lcl|NZ_CP082178.1_cds_2638 [locus_tag=K4A87_RS14170] [protein=IS701
+family transposase] [pseudo=true] [location=2967421..2968767]
+[gbkey=CDS]
+
+Length=1347
+Query= lcl|NZ_CP082178.1_cds_2653 [locus_tag=K4A87_RS14250] [protein=IS3
+family transposase] [pseudo=true] [partial=3']
+[location=2984512..>2985665] [gbkey=CDS]
+
+Length=1154
+Query= lcl|NZ_CP082178.1_cds_WP_208587193.1_2654 [locus_tag=K4A87_RS14255]
+[protein=hypothetical protein] [protein_id=WP_208587193.1]
+[location=complement(2985751..2987100)] [gbkey=CDS]
+
+Length=1350
+Query= lcl|NZ_CP082178.1_cds_WP_208587195.1_2655 [locus_tag=K4A87_RS14260]
+[protein=NAD(P)H-dependent oxidoreductase]
+[protein_id=WP_208587195.1] [location=complement(2987114..2988169)]
+[gbkey=CDS]
+
+Length=1056
+Query= lcl|NZ_CP082178.1_cds_WP_208587197.1_2656 [locus_tag=K4A87_RS14265]
+[protein=dihydrofolate reductase family protein]
+[protein_id=WP_208587197.1] [location=complement(2988162..2988620)]
+[gbkey=CDS]
+
+Length=459
+Query= lcl|NZ_CP082178.1_cds_WP_208587199.1_2657 [locus_tag=K4A87_RS14270]
+[protein=RibD family protein] [protein_id=WP_208587199.1]
+[location=complement(2988598..2989011)] [gbkey=CDS]
+
+Length=414
+Query= lcl|NZ_CP082178.1_cds_WP_238135536.1_2658 [locus_tag=K4A87_RS14275]
+[protein=hypothetical protein] [protein_id=WP_238135536.1]
+[location=2989211..2989471] [gbkey=CDS]
+
+Length=261
+Query= lcl|NZ_CP082178.1_cds_WP_208587201.1_2659 [locus_tag=K4A87_RS14280]
+[protein=WD40 repeat domain-containing protein]
+[protein_id=WP_208587201.1] [location=complement(2989554..2991239)]
+[gbkey=CDS]
+
+Length=1686
+Query= lcl|NZ_CP082178.1_cds_WP_208587203.1_2660 [locus_tag=K4A87_RS14285]
+[protein=GTP cyclohydrolase II] [protein_id=WP_208587203.1]
+[location=complement(2991252..2991887)] [gbkey=CDS]
+
+Length=636
+Query= lcl|NZ_CP082178.1_cds_WP_208587205.1_2661 [locus_tag=K4A87_RS14290]
+[protein=formylglycine-generating enzyme family protein]
+[protein_id=WP_208587205.1] [location=2992279..2993334] [gbkey=CDS]
+
+Length=1056
+Query= lcl|NZ_CP082178.1_cds_WP_208587207.1_2662 [locus_tag=K4A87_RS14295]
+[protein=methyltransferase domain-containing protein]
+[protein_id=WP_208587207.1] [location=complement(2993410..2994399)]
+[gbkey=CDS]
+
+Length=990
+Query= lcl|NZ_CP082178.1_cds_WP_208587209.1_2663 [locus_tag=K4A87_RS14300]
+[protein=L-histidine N(alpha)-methyltransferase]
+[protein_id=WP_208587209.1] [location=complement(2994477..2995409)]
+[gbkey=CDS]
+
+Length=933
+Query= lcl|NZ_CP082178.1_cds_WP_208587212.1_2664 [locus_tag=K4A87_RS14305]
+[protein=pyridoxal phosphate-dependent aminotransferase]
+[protein_id=WP_208587212.1] [location=complement(2995601..2996989)]
+[gbkey=CDS]
+
+Length=1389
+Query= lcl|NZ_CP082178.1_cds_WP_208587216.1_2666 [locus_tag=K4A87_RS14315]
+[protein=IS30 family transposase] [protein_id=WP_208587216.1]
+[location=2998579..2999541] [gbkey=CDS]
+
+Length=963
+Query= lcl|NZ_CP082178.1_cds_WP_208587218.1_2667 [locus_tag=K4A87_RS14320]
+[protein=MFS transporter] [protein_id=WP_208587218.1]
+[location=complement(2999632..3001053)] [gbkey=CDS]
+
+Length=1422
+Query= lcl|NZ_CP082178.1_cds_2669 [locus_tag=K4A87_RS14330] [protein=Type
+IV secretion system protein virB6] [pseudo=true] [partial=5',3']
+[location=<3002728..>3002998] [gbkey=CDS]
+
+Length=271
+Query= lcl|NZ_CP082178.1_cds_WP_208587232.1_2677 [locus_tag=K4A87_RS14375]
+[protein=HIRAN domain-containing protein]
+[protein_id=WP_208587232.1] [location=complement(3014700..3015440)]
+[gbkey=CDS]
+
+Length=741
+Query= lcl|NZ_CP082178.1_cds_WP_208587234.1_2678 [locus_tag=K4A87_RS14380]
+[protein=hypothetical protein] [protein_id=WP_208587234.1]
+[location=complement(3015440..3016312)] [gbkey=CDS]
+
+Length=873
+Query= lcl|NZ_CP082178.1_cds_WP_208587270.1_2702 [locus_tag=K4A87_RS14510]
+[protein=site-specific integrase] [protein_id=WP_208587270.1]
+[location=3040351..3041844] [gbkey=CDS]
+
+Length=1494
+Query= lcl|NZ_CP082178.1_cds_WP_205392191.1_2703 [locus_tag=K4A87_RS14515]
+[protein=hypothetical protein] [protein_id=WP_205392191.1]
+[location=3041844..3042083] [gbkey=CDS]
+
+Length=240
+Query= lcl|NZ_CP082178.1_cds_WP_208587272.1_2705 [locus_tag=K4A87_RS14525]
+[protein=hypothetical protein] [protein_id=WP_208587272.1]
+[location=complement(3043758..3044198)] [gbkey=CDS]
+
+Length=441
+Query= lcl|NZ_CP082178.1_cds_WP_208587278.1_2708 [locus_tag=K4A87_RS14540]
+[protein=Eco57I restriction-modification methylase domain-containing
+protein] [protein_id=WP_208587278.1]
+[location=complement(3046379..3049432)] [gbkey=CDS]
+
+Length=3054
+Query= lcl|NZ_CP082178.1_cds_WP_238135538.1_2709 [locus_tag=K4A87_RS14545]
+[protein=SAM-dependent methyltransferase]
+[protein_id=WP_238135538.1] [location=complement(3049432..3051063)]
+[gbkey=CDS]
+
+Length=1632
+Query= lcl|NZ_CP082178.1_cds_WP_058360218.1_2710 [locus_tag=K4A87_RS14550]
+[protein=hypothetical protein] [protein_id=WP_058360218.1]
+[location=complement(3051186..3051386)] [gbkey=CDS]
+
+Length=201
+Query= lcl|NZ_CP082178.1_cds_2711 [locus_tag=K4A87_RS14555]
+[protein=site-specific integrase] [pseudo=true]
+[location=3051734..3053228] [gbkey=CDS]
+
+Length=1495
+Query= lcl|NZ_CP082178.1_cds_WP_238135539.1_2712 [locus_tag=K4A87_RS14560]
+[protein=hypothetical protein] [protein_id=WP_238135539.1]
+[location=3053527..3054333] [gbkey=CDS]
+
+Length=807
+Query= lcl|NZ_CP082178.1_cds_WP_208587282.1_2714 [locus_tag=K4A87_RS14570]
+[protein=reverse transcriptase domain-containing protein]
+[protein_id=WP_208587282.1] [location=complement(3055609..3056364)]
+[gbkey=CDS]
+
+Length=756
+Query= lcl|NZ_CP082178.1_cds_WP_238135541.1_2736 [locus_tag=K4A87_RS14705]
+[protein=ATP-binding cassette domain-containing protein]
+[protein_id=WP_238135541.1] [location=3077064..3077966] [gbkey=CDS]
+
+Length=903
+Query= lcl|NZ_CP082178.1_cds_WP_017118594.1_2737 [locus_tag=K4A87_RS14710]
+[protein=hypothetical protein] [protein_id=WP_017118594.1]
+[location=3078081..3078260] [gbkey=CDS]
+
+Length=180
+Query= lcl|NZ_CP082178.1_cds_WP_238135542.1_2738 [locus_tag=K4A87_RS14715]
+[protein=hypothetical protein] [protein_id=WP_238135542.1]
+[location=3078329..3078718] [gbkey=CDS]
+
+Length=390
+Query= lcl|NZ_CP082178.1_cds_WP_208586408.1_2739 [locus_tag=K4A87_RS14720]
+[protein=IS30 family transposase] [protein_id=WP_208586408.1]
+[location=3078694..3079710] [gbkey=CDS]
+
+Length=1017
+Query= lcl|NZ_CP082178.1_cds_WP_238135543.1_2740 [locus_tag=K4A87_RS14725]
+[protein=hypothetical protein] [protein_id=WP_238135543.1]
+[location=3079734..3080069] [gbkey=CDS]
+
+Length=336
+Query= lcl|NZ_CP082178.1_cds_WP_238135544.1_2743 [locus_tag=K4A87_RS14740]
+[protein=hypothetical protein] [protein_id=WP_238135544.1]
+[location=3082044..3082661] [gbkey=CDS]
+
+Length=618
+Query= lcl|NZ_CP082178.1_cds_WP_238135546.1_2770 [locus_tag=K4A87_RS14885]
+[protein=rhomboid family intramembrane serine protease]
+[protein_id=WP_238135546.1] [location=complement(3127305..3128348)]
+[gbkey=CDS]
+
+Length=1044
+Query= lcl|NZ_CP082178.1_cds_WP_208587341.1_2771 [locus_tag=K4A87_RS14890]
+[protein=hypothetical protein] [protein_id=WP_208587341.1]
+[location=complement(3128410..3128559)] [gbkey=CDS]
+
+Length=150
+Query= lcl|NZ_CP082178.1_cds_WP_238135739.1_2772 [locus_tag=K4A87_RS14895]
+[protein=hypothetical protein] [protein_id=WP_238135739.1]
+[location=complement(3128875..3128961)] [gbkey=CDS]
+
+Length=87
+Query= lcl|NZ_CP082178.1_cds_WP_238135547.1_2773 [locus_tag=K4A87_RS14900]
+[protein=hypothetical protein] [protein_id=WP_238135547.1]
+[location=complement(3129038..3129778)] [gbkey=CDS]
+
+Length=741
+Query= lcl|NZ_CP082178.1_cds_WP_208587345.1_2774 [locus_tag=K4A87_RS14905]
+[protein=hypothetical protein] [protein_id=WP_208587345.1]
+[location=complement(3130578..3130775)] [gbkey=CDS]
+
+Length=198
+Query= lcl|NZ_CP082178.1_cds_WP_208587346.1_2775 [locus_tag=K4A87_RS14910]
+[protein=HlyD family efflux transporter periplasmic adaptor subunit]
+[protein_id=WP_208587346.1] [location=complement(3130909..3132153)]
+[gbkey=CDS]
+
+Length=1245
+Query= lcl|NZ_CP082178.1_cds_WP_208587347.1_2776 [locus_tag=K4A87_RS14915]
+[protein=hypothetical protein] [protein_id=WP_208587347.1]
+[location=complement(3132150..3132428)] [gbkey=CDS]
+
+Length=279
+Query= lcl|NZ_CP082178.1_cds_WP_238135548.1_2788 [locus_tag=K4A87_RS14985]
+[protein=virulence RhuM family protein] [protein_id=WP_238135548.1]
+[location=3150907..3152019] [gbkey=CDS]
+
+Length=1113
+Query= lcl|NZ_CP082178.1_cds_WP_208587392.1_2818 [gene=pqqD]
+[locus_tag=K4A87_RS15150] [protein=pyrroloquinoline quinone
+biosynthesis peptide chaperone PqqD] [protein_id=WP_208587392.1]
+[location=3192148..3192426] [gbkey=CDS]
+
+Length=279
+Query= lcl|NZ_CP082178.1_cds_2820 [locus_tag=K4A87_RS15160]
+[protein=hypothetical protein] [pseudo=true] [partial=5']
+[location=<3193656..3193950] [gbkey=CDS]
+
+Length=295
+Query= lcl|NZ_CP082178.1_cds_WP_208587396.1_2821 [locus_tag=K4A87_RS15165]
+[protein=PhoPQ-activated protein PqaA family protein]
+[protein_id=WP_208587396.1] [location=3194202..3195707] [gbkey=CDS]
+
+Length=1506
+Query= lcl|NZ_CP082178.1_cds_2822 [locus_tag=K4A87_RS15170]
+[protein=TonB-dependent receptor] [pseudo=true] [partial=5']
+[location=<3195770..3196218] [gbkey=CDS]
+
+Length=449
+Query= lcl|NZ_CP082178.1_cds_2830 [locus_tag=K4A87_RS15215] [protein=IS5
+family transposase] [pseudo=true]
+[location=complement(3208510..3209471)] [gbkey=CDS]
+
+Length=962
+Query= lcl|NZ_CP082178.1_cds_WP_208591842.1_2831 [locus_tag=K4A87_RS15220]
+[protein=hypothetical protein] [protein_id=WP_208591842.1]
+[location=complement(3209422..3209592)] [gbkey=CDS]
+
+Length=171
+Query= lcl|NZ_CP082178.1_cds_WP_208587407.1_2833 [locus_tag=K4A87_RS15230]
+[protein=N-acetylmuramoyl-L-alanine amidase]
+[protein_id=WP_208587407.1] [location=complement(3210699..3212060)]
+[gbkey=CDS]
+
+Length=1362
+Query= lcl|NZ_CP082178.1_cds_WP_208587408.1_2835 [locus_tag=K4A87_RS15240]
+[protein=IS5 family transposase] [exception=ribosomal slippage]
+[protein_id=WP_208587408.1]
+[location=join(3213258..3213517,3213516..3214050)] [gbkey=CDS]
+
+Length=795
+Query= lcl|NZ_CP082178.1_cds_2841 [locus_tag=K4A87_RS15280]
+[protein=integrase] [pseudo=true] [partial=5',3']
+[location=complement(<3217658..>3217813)] [gbkey=CDS]
+
+Length=156
+Query= lcl|NZ_CP082178.1_cds_2844 [locus_tag=K4A87_RS15295]
+[protein=transposase domain-containing protein] [pseudo=true]
+[partial=5'] [location=complement(3219726..>3219854)] [gbkey=CDS]
+
+Length=129
+Query= lcl|NZ_CP082178.1_cds_WP_208587411.1_2846 [locus_tag=K4A87_RS15305]
+[protein=hypothetical protein] [protein_id=WP_208587411.1]
+[location=complement(3221091..3221315)] [gbkey=CDS]
+
+Length=225
+Query= lcl|NZ_CP082178.1_cds_WP_208587435.1_2866 [locus_tag=K4A87_RS15435]
+[protein=site-specific integrase] [protein_id=WP_208587435.1]
+[location=3246075..3247475] [gbkey=CDS]
+
+Length=1401
+Query= lcl|NZ_CP082178.1_cds_WP_208587436.1_2867 [locus_tag=K4A87_RS15440]
+[protein=reverse transcriptase family protein]
+[protein_id=WP_208587436.1] [location=3247688..3248644] [gbkey=CDS]
+
+Length=957
+Query= lcl|NZ_CP082178.1_cds_WP_208587437.1_2868 [locus_tag=K4A87_RS15445]
+[protein=AAA family ATPase] [protein_id=WP_208587437.1]
+[location=3248641..3249981] [gbkey=CDS]
+
+Length=1341
+Query= lcl|NZ_CP082178.1_cds_WP_238135551.1_2869 [locus_tag=K4A87_RS15450]
+[protein=helix-turn-helix domain-containing protein]
+[protein_id=WP_238135551.1] [location=complement(3250024..3250305)]
+[gbkey=CDS]
+
+Length=282
+Query= lcl|NZ_CP082178.1_cds_2870 [locus_tag=K4A87_RS15455]
+[protein=hypothetical protein] [pseudo=true] [partial=3']
+[location=3250484..>3250852] [gbkey=CDS]
+
+Length=369
+Query= lcl|NZ_CP082178.1_cds_WP_208587439.1_2872 [locus_tag=K4A87_RS15465]
+[protein=site-specific integrase] [protein_id=WP_208587439.1]
+[location=complement(3252033..3253586)] [gbkey=CDS]
+
+Length=1554
+Query= lcl|NZ_CP082178.1_cds_2882 [locus_tag=K4A87_RS15520]
+[protein=hypothetical protein] [pseudo=true] [partial=5']
+[location=<3262118..3262460] [gbkey=CDS]
+
+Length=343
+Query= lcl|NZ_CP082178.1_cds_2883 [locus_tag=K4A87_RS15525] [protein=IS30
+family transposase] [pseudo=true] [partial=5',3']
+[location=<3262481..>3262623] [gbkey=CDS]
+
+Length=143
+Query= lcl|NZ_CP082178.1_cds_WP_238135552.1_2958 [locus_tag=K4A87_RS15935]
+[protein=hypothetical protein] [protein_id=WP_238135552.1]
+[location=complement(3326099..3326401)] [gbkey=CDS]
+
+Length=303
+Query= lcl|NZ_CP082178.1_cds_3007 [locus_tag=K4A87_RS16190] [protein=ABC
+transporter permease] [pseudo=true] [partial=5']
+[location=complement(3373864..>3374145)] [gbkey=CDS]
+
+Length=282
+Query= lcl|NZ_CP082178.1_cds_3014 [locus_tag=K4A87_RS16235] [protein=Tn3
+family transposase] [pseudo=true]
+[location=complement(3384891..3387921)] [gbkey=CDS]
+
+Length=3031
+Query= lcl|NZ_CP082178.1_cds_WP_208587584.1_3015 [locus_tag=K4A87_RS16240]
+[protein=type II toxin-antitoxin system VapC family toxin]
+[protein_id=WP_208587584.1] [location=complement(3387918..3388310)]
+[gbkey=CDS]
+
+Length=393
+Query= lcl|NZ_CP082178.1_cds_WP_208587585.1_3016 [locus_tag=K4A87_RS16245]
+[protein=type II toxin-antitoxin system prevent-host-death family
+antitoxin] [protein_id=WP_208587585.1]
+[location=complement(3388307..3388549)] [gbkey=CDS]
+
+Length=243
+Query= lcl|NZ_CP082178.1_cds_WP_238135555.1_3017 [locus_tag=K4A87_RS16250]
+[protein=recombinase family protein] [protein_id=WP_238135555.1]
+[location=3388729..3388998] [gbkey=CDS]
+
+Length=270
+Query= lcl|NZ_CP082178.1_cds_WP_238135556.1_3018 [locus_tag=K4A87_RS16255]
+[protein=resolvase] [protein_id=WP_238135556.1]
+[location=3389000..3389683] [gbkey=CDS]
+
+Length=684
+Query= lcl|NZ_CP082178.1_cds_WP_208587608.1_3034 [locus_tag=K4A87_RS16340]
+[protein=hypothetical protein] [protein_id=WP_208587608.1]
+[location=complement(3408066..3409757)] [gbkey=CDS]
+
+Length=1692
+Query= lcl|NZ_CP082178.1_cds_WP_208587615.1_3041 [locus_tag=K4A87_RS16375]
+[protein=IS701 family transposase] [protein_id=WP_208587615.1]
+[location=complement(3417614..3418960)] [gbkey=CDS]
+
+Length=1347
+Query= lcl|NZ_CP082178.1_cds_WP_208587619.1_3044 [locus_tag=K4A87_RS16395]
+[protein=DarT ssDNA thymidine ADP-ribosyltransferase family protein]
+[protein_id=WP_208587619.1] [location=3421458..3422108] [gbkey=CDS]
+
+Length=651
+Query= lcl|NZ_CP082178.1_cds_WP_238135557.1_3045 [locus_tag=K4A87_RS16400]
+[protein=macro domain-containing protein]
+[protein_id=WP_238135557.1] [location=3422147..3423178] [gbkey=CDS]
+
+Length=1032
+Query= lcl|NZ_CP082178.1_cds_WP_238135560.1_3063 [locus_tag=K4A87_RS16495]
+[protein=hypothetical protein] [protein_id=WP_238135560.1]
+[location=complement(3440519..3441442)] [gbkey=CDS]
+
+Length=924
+Query= lcl|NZ_CP082178.1_cds_WP_238135561.1_3064 [locus_tag=K4A87_RS16500]
+[protein=hypothetical protein] [protein_id=WP_238135561.1]
+[location=complement(3441452..3441715)] [gbkey=CDS]
+
+Length=264
+Query= lcl|NZ_CP082178.1_cds_WP_238135562.1_3065 [locus_tag=K4A87_RS16505]
+[protein=hypothetical protein] [protein_id=WP_238135562.1]
+[location=complement(3441867..3443312)] [gbkey=CDS]
+
+Length=1446
+Query= lcl|NZ_CP082178.1_cds_3089 [locus_tag=K4A87_RS16630]
+[protein=transposase] [pseudo=true] [partial=3']
+[location=3466437..>3466547] [gbkey=CDS]
+
+Length=111
+Query= lcl|NZ_CP082178.1_cds_WP_238135564.1_3090 [locus_tag=K4A87_RS16635]
+[protein=hypothetical protein] [protein_id=WP_238135564.1]
+[location=complement(3466767..3467399)] [gbkey=CDS]
+
+Length=633
+Query= lcl|NZ_CP082178.1_cds_WP_208587671.1_3091 [locus_tag=K4A87_RS16640]
+[protein=hypothetical protein] [protein_id=WP_208587671.1]
+[location=complement(3467396..3468520)] [gbkey=CDS]
+
+Length=1125
+Query= lcl|NZ_CP082178.1_cds_WP_208587673.1_3092 [locus_tag=K4A87_RS16645]
+[protein=HlyD family efflux transporter periplasmic adaptor subunit]
+[protein_id=WP_208587673.1] [location=3469464..3470495] [gbkey=CDS]
+
+Length=1032
+Query= lcl|NZ_CP082178.1_cds_WP_238135743.1_3093 [locus_tag=K4A87_RS16650]
+[protein=peptidase domain-containing ABC transporter]
+[protein_id=WP_238135743.1] [location=3470597..3472648] [gbkey=CDS]
+
+Length=2052
+Query= lcl|NZ_CP082178.1_cds_WP_208587677.1_3097 [locus_tag=K4A87_RS16670]
+[protein=hypothetical protein] [protein_id=WP_208587677.1]
+[location=complement(3475825..3476505)] [gbkey=CDS]
+
+Length=681
+Query= lcl|NZ_CP082178.1_cds_3128 [locus_tag=K4A87_RS16830]
+[protein=IS5/IS1182 family transposase] [pseudo=true] [partial=3']
+[location=complement(<3509854..3509976)] [gbkey=CDS]
+
+Length=123
+Query= lcl|NZ_CP082178.1_cds_3129 [locus_tag=K4A87_RS16835] [protein=IS701
+family transposase] [pseudo=true] [partial=3']
+[location=3510177..>3511190] [gbkey=CDS]
+
+Length=1014
+Query= lcl|NZ_CP082178.1_cds_3132 [locus_tag=K4A87_RS16850] [protein=IS701
+family transposase] [pseudo=true]
+[location=complement(3514925..3516271)] [gbkey=CDS]
+
+Length=1347
+Query= lcl|NZ_CP082178.1_cds_WP_208587719.1_3135 [locus_tag=K4A87_RS16865]
+[protein=hypothetical protein] [protein_id=WP_208587719.1]
+[location=complement(3520016..3520972)] [gbkey=CDS]
+
+Length=957
+Query= lcl|NZ_CP082178.1_cds_WP_208587721.1_3136 [locus_tag=K4A87_RS16870]
+[protein=hypothetical protein] [protein_id=WP_208587721.1]
+[location=complement(3521056..3521589)] [gbkey=CDS]
+
+Length=534
+Query= lcl|NZ_CP082178.1_cds_WP_208587752.1_3160 [locus_tag=K4A87_RS17000]
+[protein=cellulase family glycosylhydrolase]
+[protein_id=WP_208587752.1] [location=3553672..3555444] [gbkey=CDS]
+
+Length=1773
+Query= lcl|NZ_CP082178.1_cds_WP_238135569.1_3188 [locus_tag=K4A87_RS17180]
+[protein=AAA family ATPase] [protein_id=WP_238135569.1]
+[location=3588657..3588887] [gbkey=CDS]
+
+Length=231
+Query= lcl|NZ_CP082178.1_cds_WP_238135570.1_3189 [locus_tag=K4A87_RS17190]
+[protein=AAA family ATPase] [protein_id=WP_238135570.1]
+[location=3589077..3589928] [gbkey=CDS]
+
+Length=852
+Query= lcl|NZ_CP082178.1_cds_WP_208587771.1_3190 [locus_tag=K4A87_RS17195]
+[protein=DUF4276 family protein] [protein_id=WP_208587771.1]
+[location=3589925..3590506] [gbkey=CDS]
+
+Length=582
+Query= lcl|NZ_CP082178.1_cds_WP_208591844.1_3227 [locus_tag=K4A87_RS17405]
+[protein=hypothetical protein] [protein_id=WP_208591844.1]
+[location=3626561..3626713] [gbkey=CDS]
+
+Length=153
+Query= lcl|NZ_CP082178.1_cds_WP_238135572.1_3301 [locus_tag=K4A87_RS17795]
+[protein=hypothetical protein] [protein_id=WP_238135572.1]
+[location=complement(3703117..3703293)] [gbkey=CDS]
+
+Length=177
+Query= lcl|NZ_CP082178.1_cds_3315 [locus_tag=K4A87_RS17870] [protein=IS701
+family transposase] [pseudo=true] [location=3716559..3717904]
+[gbkey=CDS]
+
+Length=1346
+Query= lcl|NZ_CP082178.1_cds_WP_238135573.1_3317 [locus_tag=K4A87_RS17880]
+[protein=hypothetical protein] [protein_id=WP_238135573.1]
+[location=3719072..3719341] [gbkey=CDS]
+
+Length=270
+Query= lcl|NZ_CP082178.1_cds_WP_208586408.1_3320 [locus_tag=K4A87_RS17895]
+[protein=IS30 family transposase] [protein_id=WP_208586408.1]
+[location=3720795..3721811] [gbkey=CDS]
+
+Length=1017
+Query= lcl|NZ_CP082178.1_cds_WP_208587971.1_3362 [locus_tag=K4A87_RS18130]
+[protein=peptidase domain-containing ABC transporter]
+[protein_id=WP_208587971.1] [location=complement(3758269..3760410)]
+[gbkey=CDS]
+
+Length=2142
+Query= lcl|NZ_CP082178.1_cds_WP_208587973.1_3363 [locus_tag=K4A87_RS18135]
+[protein=hypothetical protein] [protein_id=WP_208587973.1]
+[location=complement(3760407..3760916)] [gbkey=CDS]
+
+Length=510
+Query= lcl|NZ_CP082178.1_cds_WP_208587975.1_3364 [locus_tag=K4A87_RS18140]
+[protein=ABC transporter ATP-binding protein]
+[protein_id=WP_208587975.1] [location=complement(3760956..3761672)]
+[gbkey=CDS]
+
+Length=717
+Query= lcl|NZ_CP082178.1_cds_WP_208587977.1_3365 [locus_tag=K4A87_RS18145]
+[protein=HlyD family efflux transporter periplasmic adaptor subunit]
+[protein_id=WP_208587977.1] [location=complement(3761644..3762906)]
+[gbkey=CDS]
+
+Length=1263
+Query= lcl|NZ_CP082178.1_cds_WP_208587979.1_3366 [locus_tag=K4A87_RS18150]
+[protein=hypothetical protein] [protein_id=WP_208587979.1]
+[location=complement(3762913..3763419)] [gbkey=CDS]
+
+Length=507
+Query= lcl|NZ_CP082178.1_cds_WP_208587981.1_3367 [locus_tag=K4A87_RS18155]
+[protein=HEXXH motif-containing putative peptide modification
+protein] [protein_id=WP_208587981.1]
+[location=complement(3763488..3764675)] [gbkey=CDS]
+
+Length=1188
+Query= lcl|NZ_CP082178.1_cds_WP_208587983.1_3368 [locus_tag=K4A87_RS18160]
+[protein=2OG-Fe(II) oxygenase] [protein_id=WP_208587983.1]
+[location=complement(3764668..3765111)] [gbkey=CDS]
+
+Length=444
+Query= lcl|NZ_CP082178.1_cds_WP_238135577.1_3369 [locus_tag=K4A87_RS18165]
+[protein=IS5 family transposase] [exception=ribosomal slippage]
+[protein_id=WP_238135577.1]
+[location=join(3765277..3765592,3765592..3766040)] [gbkey=CDS]
+
+Length=765
+Query= lcl|NZ_CP082178.1_cds_WP_238135578.1_3370 [locus_tag=K4A87_RS18170]
+[protein=PDZ domain-containing protein] [protein_id=WP_238135578.1]
+[location=complement(3766318..3767229)] [gbkey=CDS]
+
+Length=912
+Query= lcl|NZ_CP082178.1_cds_WP_208587987.1_3372 [locus_tag=K4A87_RS18180]
+[protein=N-acetylmuramoyl-L-alanine amidase]
+[protein_id=WP_208587987.1] [location=complement(3769132..3770727)]
+[gbkey=CDS]
+
+Length=1596
+Query= lcl|NZ_CP082178.1_cds_WP_208587989.1_3373 [locus_tag=K4A87_RS18185]
+[protein=hypothetical protein] [protein_id=WP_208587989.1]
+[location=complement(3771252..3771713)] [gbkey=CDS]
+
+Length=462
+Query= lcl|NZ_CP082178.1_cds_3374 [locus_tag=K4A87_RS18190]
+[protein=transposase] [pseudo=true] [partial=3']
+[location=complement(<3771865..3772029)] [gbkey=CDS]
+
+Length=165
+Query= lcl|NZ_CP082178.1_cds_WP_208587991.1_3375 [locus_tag=K4A87_RS18195]
+[protein=sugar kinase] [protein_id=WP_208587991.1]
+[location=complement(3772187..3773209)] [gbkey=CDS]
+
+Length=1023
+Query= lcl|NZ_CP082178.1_cds_WP_208587993.1_3376 [locus_tag=K4A87_RS18200]
+[protein=TonB-dependent receptor] [protein_id=WP_208587993.1]
+[location=3773495..3776275] [gbkey=CDS]
+
+Length=2781
+Query= lcl|NZ_CP082178.1_cds_WP_208587995.1_3377 [locus_tag=K4A87_RS18205]
+[protein=TonB-dependent receptor] [protein_id=WP_208587995.1]
+[location=3776454..3779651] [gbkey=CDS]
+
+Length=3198
+Query= lcl|NZ_CP082178.1_cds_WP_208587996.1_3378 [locus_tag=K4A87_RS18210]
+[protein=pectinesterase family protein] [protein_id=WP_208587996.1]
+[location=3779665..3780642] [gbkey=CDS]
+
+Length=978
+Query= lcl|NZ_CP082178.1_cds_WP_208587997.1_3379 [gene=pelA]
+[locus_tag=K4A87_RS18215] [protein=pectate lyase]
+[protein_id=WP_208587997.1] [location=3780642..3781685] [gbkey=CDS]
+
+Length=1044
+Query= lcl|NZ_CP082178.1_cds_WP_208587999.1_3381 [locus_tag=K4A87_RS18225]
+[protein=hypothetical protein] [protein_id=WP_208587999.1]
+[location=3786000..3786257] [gbkey=CDS]
+
+Length=258
+Query= lcl|NZ_CP082178.1_cds_WP_208588003.1_3383 [locus_tag=K4A87_RS18235]
+[protein=sel1 repeat family protein] [protein_id=WP_208588003.1]
+[location=3787386..3788288] [gbkey=CDS]
+
+Length=903
+Query= lcl|NZ_CP082178.1_cds_3387 [locus_tag=K4A87_RS18260] [protein=IS1595
+family transposase] [pseudo=true] [partial=3']
+[location=complement(<3792030..3792167)] [gbkey=CDS]
+
+Length=138
+Query= lcl|NZ_CP082178.1_cds_WP_208588015.1_3402 [locus_tag=K4A87_RS18340]
+[protein=flavodoxin] [protein_id=WP_208588015.1]
+[location=complement(3809131..3809613)] [gbkey=CDS]
+
+Length=483
+Query= lcl|NZ_CP082178.1_cds_WP_208588016.1_3403 [locus_tag=K4A87_RS18345]
+[protein=ImmA/IrrE family metallo-endopeptidase]
+[protein_id=WP_208588016.1] [location=complement(3809627..3810463)]
+[gbkey=CDS]
+
+Length=837
+Query= lcl|NZ_CP082178.1_cds_WP_208588022.1_3408 [locus_tag=K4A87_RS18370]
+[protein=hypothetical protein] [protein_id=WP_208588022.1]
+[location=3818889..3819884] [gbkey=CDS]
+
+Length=996
+Query= lcl|NZ_CP082178.1_cds_3414 [locus_tag=K4A87_RS18400]
+[protein=phosphotyrosine protein phosphatase] [pseudo=true]
+[location=complement(3828660..3828949)] [gbkey=CDS]
+
+Length=290
+Query= lcl|NZ_CP082178.1_cds_WP_208588043.1_3423 [locus_tag=K4A87_RS18445]
+[protein=phosphotransferase] [protein_id=WP_208588043.1]
+[location=complement(3838528..3838968)] [gbkey=CDS]
+
+Length=441
+Query= lcl|NZ_CP082178.1_cds_WP_208588051.1_3435 [locus_tag=K4A87_RS18505]
+[protein=hypothetical protein] [protein_id=WP_208588051.1]
+[location=3852309..3853025] [gbkey=CDS]
+
+Length=717
+Query= lcl|NZ_CP082178.1_cds_WP_208588055.1_3437 [locus_tag=K4A87_RS18515]
+[protein=nucleotidyltransferase domain-containing protein]
+[protein_id=WP_208588055.1] [location=complement(3854026..3854382)]
+[gbkey=CDS]
+
+Length=357
+Query= lcl|NZ_CP082178.1_cds_WP_208588057.1_3438 [locus_tag=K4A87_RS18520]
+[protein=nucleotidyltransferase substrate binding protein]
+[protein_id=WP_208588057.1] [location=complement(3854369..3854833)]
+[gbkey=CDS]
+
+Length=465
+Query= lcl|NZ_CP082178.1_cds_WP_208588059.1_3439 [locus_tag=K4A87_RS18525]
+[protein=phytanoyl-CoA dioxygenase family protein]
+[protein_id=WP_208588059.1] [location=complement(3854830..3855606)]
+[gbkey=CDS]
+
+Length=777
+Query= lcl|NZ_CP082178.1_cds_WP_208588061.1_3440 [locus_tag=K4A87_RS18530]
+[protein=MFS transporter] [protein_id=WP_208588061.1]
+[location=complement(3855593..3856879)] [gbkey=CDS]
+
+Length=1287
+Query= lcl|NZ_CP082178.1_cds_WP_208588063.1_3441 [locus_tag=K4A87_RS18535]
+[protein=ABC transporter ATP-binding protein]
+[protein_id=WP_208588063.1] [location=complement(3856866..3857549)]
+[gbkey=CDS]
+
+Length=684
+Query= lcl|NZ_CP082178.1_cds_WP_208588065.1_3442 [locus_tag=K4A87_RS18540]
+[protein=hypothetical protein] [protein_id=WP_208588065.1]
+[location=complement(3857537..3858742)] [gbkey=CDS]
+
+Length=1206
+Query= lcl|NZ_CP082178.1_cds_WP_208588066.1_3443 [locus_tag=K4A87_RS18545]
+[protein=hypothetical protein] [protein_id=WP_208588066.1]
+[location=complement(3858729..3859580)] [gbkey=CDS]
+
+Length=852
+Query= lcl|NZ_CP082178.1_cds_WP_208588067.1_3444 [locus_tag=K4A87_RS18550]
+[protein=DUF692 family protein] [protein_id=WP_208588067.1]
+[location=complement(3859585..3860424)] [gbkey=CDS]
+
+Length=840
+Query= lcl|NZ_CP082178.1_cds_WP_238135581.1_3445 [locus_tag=K4A87_RS18555]
+[protein=hypothetical protein] [protein_id=WP_238135581.1]
+[location=complement(3860428..3860724)] [gbkey=CDS]
+
+Length=297
+Query= lcl|NZ_CP082178.1_cds_WP_238135744.1_3446 [locus_tag=K4A87_RS18560]
+[protein=type 2 lantipeptide synthetase LanM]
+[protein_id=WP_238135744.1] [location=complement(3861504..3863858)]
+[gbkey=CDS]
+
+Length=2355
+Query= lcl|NZ_CP082178.1_cds_WP_238135745.1_3447 [locus_tag=K4A87_RS18565]
+[protein=TauD/TfdA family dioxygenase] [protein_id=WP_238135745.1]
+[location=complement(3864370..3865152)] [gbkey=CDS]
+
+Length=783
+Query= lcl|NZ_CP082178.1_cds_WP_238135582.1_3448 [locus_tag=K4A87_RS18570]
+[protein=GNAT family N-acetyltransferase]
+[protein_id=WP_238135582.1] [location=complement(3865154..3865711)]
+[gbkey=CDS]
+
+Length=558
+Query= lcl|NZ_CP082178.1_cds_WP_238135748.1_3450 [locus_tag=K4A87_RS18580]
+[protein=hypothetical protein] [protein_id=WP_238135748.1]
+[location=complement(3865957..3866151)] [gbkey=CDS]
+
+Length=195
+Query= lcl|NZ_CP082178.1_cds_3474 [locus_tag=K4A87_RS18710] [protein=xylan
+1,4-beta-xylosidase] [pseudo=true] [partial=5',3']
+[location=complement(<3889722..>3889907)] [gbkey=CDS]
+
+Length=186
+Query= lcl|NZ_CP082178.1_cds_WP_238135584.1_3484 [locus_tag=K4A87_RS18760]
+[protein=hypothetical protein] [protein_id=WP_238135584.1]
+[location=complement(3899116..3899301)] [gbkey=CDS]
+
+Length=186
+Query= lcl|NZ_CP082178.1_cds_WP_208591823.1_3485 [locus_tag=K4A87_RS18765]
+[protein=avidin/streptavidin family protein]
+[protein_id=WP_208591823.1] [location=3899410..3899856] [gbkey=CDS]
+
+Length=447
+Query= lcl|NZ_CP082178.1_cds_3486 [locus_tag=K4A87_RS18770]
+[protein=DNA-binding protein] [pseudo=true] [partial=3']
+[location=complement(<3900058..3900228)] [gbkey=CDS]
+
+Length=171
+Query= lcl|NZ_CP082178.1_cds_WP_238135585.1_3487 [locus_tag=K4A87_RS18775]
+[protein=DNA-binding protein] [protein_id=WP_238135585.1]
+[location=complement(3900225..3900353)] [gbkey=CDS]
+
+Length=129
+Query= lcl|NZ_CP082178.1_cds_3488 [locus_tag=K4A87_RS18780] [protein=RHS
+repeat-associated core domain-containing protein] [pseudo=true]
+[partial=5',3'] [location=complement(<3900814..>3901964)]
+[gbkey=CDS]
+
+Length=1151
+Query= lcl|NZ_CP082178.1_cds_3489 [locus_tag=K4A87_RS18785]
+[protein=Ig-like domain-containing protein] [pseudo=true]
+[partial=3'] [location=complement(<3902112..3902561)] [gbkey=CDS]
+
+Length=450
+Query= lcl|NZ_CP082178.1_cds_WP_208588102.1_3490 [locus_tag=K4A87_RS18790]
+[protein=RHS repeat protein] [protein_id=WP_208588102.1]
+[location=complement(3903544..3905382)] [gbkey=CDS]
+
+Length=1839
+Query= lcl|NZ_CP082178.1_cds_WP_208588104.1_3491 [locus_tag=K4A87_RS18795]
+[protein=hypothetical protein] [protein_id=WP_208588104.1]
+[location=complement(3905364..3905855)] [gbkey=CDS]
+
+Length=492
+Query= lcl|NZ_CP082178.1_cds_3499 [locus_tag=K4A87_RS18840] [protein=IS30
+family transposase] [pseudo=true] [partial=5']
+[location=<3913791..3913961] [gbkey=CDS]
+
+Length=171
+Query= lcl|NZ_CP082178.1_cds_WP_208591848.1_3509 [locus_tag=K4A87_RS18900]
+[protein=hypothetical protein] [protein_id=WP_208591848.1]
+[location=3933042..3933713] [gbkey=CDS]
+
+Length=672
+Query= lcl|NZ_CP082178.1_cds_WP_208588161.1_3549 [locus_tag=K4A87_RS19115]
+[protein=hypothetical protein] [protein_id=WP_208588161.1]
+[location=complement(3974848..3975702)] [gbkey=CDS]
+
+Length=855
+Query= lcl|NZ_CP082178.1_cds_WP_208588163.1_3550 [locus_tag=K4A87_RS19120]
+[protein=SDR family NAD(P)-dependent oxidoreductase]
+[protein_id=WP_208588163.1] [location=complement(3975735..3976187)]
+[gbkey=CDS]
+
+Length=453
+Query= lcl|NZ_CP082178.1_cds_WP_208588181.1_3562 [locus_tag=K4A87_RS19185]
+[protein=hypothetical protein] [protein_id=WP_208588181.1]
+[location=complement(3988754..3989071)] [gbkey=CDS]
+
+Length=318
+Query= lcl|NZ_CP082178.1_cds_WP_208588199.1_3588 [locus_tag=K4A87_RS19380]
+[protein=HipA domain-containing protein] [protein_id=WP_208588199.1]
+[location=complement(4021407..4022684)] [gbkey=CDS]
+
+Length=1278
+Query= lcl|NZ_CP082178.1_cds_WP_208588200.1_3589 [locus_tag=K4A87_RS19385]
+[protein=helix-turn-helix domain-containing protein]
+[protein_id=WP_208588200.1] [location=complement(4022681..4022881)]
+[gbkey=CDS]
+
+Length=201
+Query= lcl|NZ_CP082178.1_cds_WP_208588201.1_3590 [locus_tag=K4A87_RS19390]
+[protein=alpha/beta hydrolase-fold protein]
+[protein_id=WP_208588201.1] [location=4023358..4024965] [gbkey=CDS]
+
+Length=1608
+Query= lcl|NZ_CP082178.1_cds_WP_208588202.1_3591 [locus_tag=K4A87_RS19395]
+[protein=DUF2384 domain-containing protein]
+[protein_id=WP_208588202.1] [location=complement(4025049..4025453)]
+[gbkey=CDS]
+
+Length=405
+Query= lcl|NZ_CP082178.1_cds_WP_208588203.1_3592 [locus_tag=K4A87_RS19400]
+[protein=hypothetical protein] [protein_id=WP_208588203.1]
+[location=4025767..4026222] [gbkey=CDS]
+
+Length=456
+Query= lcl|NZ_CP082178.1_cds_WP_208588204.1_3593 [locus_tag=K4A87_RS19405]
+[protein=hypothetical protein] [protein_id=WP_208588204.1]
+[location=4026572..4027117] [gbkey=CDS]
+
+Length=546
+Query= lcl|NZ_CP082178.1_cds_WP_208588205.1_3594 [locus_tag=K4A87_RS19410]
+[protein=hypothetical protein] [protein_id=WP_208588205.1]
+[location=4027120..4028007] [gbkey=CDS]
+
+Length=888
+Query= lcl|NZ_CP082178.1_cds_WP_208591850.1_3595 [locus_tag=K4A87_RS19415]
+[protein=hypothetical protein] [protein_id=WP_208591850.1]
+[location=complement(4028071..4028343)] [gbkey=CDS]
+
+Length=273
+Query= lcl|NZ_CP082178.1_cds_WP_208588206.1_3596 [locus_tag=K4A87_RS19420]
+[protein=RluA family pseudouridine synthase]
+[protein_id=WP_208588206.1] [location=complement(4028526..4029428)]
+[gbkey=CDS]
+
+Length=903
+Query= lcl|NZ_CP082178.1_cds_WP_208588208.1_3599 [locus_tag=K4A87_RS19435]
+[protein=hypothetical protein] [protein_id=WP_208588208.1]
+[location=complement(4031948..4032853)] [gbkey=CDS]
+
+Length=906
+Query= lcl|NZ_CP082178.1_cds_WP_208588209.1_3600 [locus_tag=K4A87_RS19440]
+[protein=hypothetical protein] [protein_id=WP_208588209.1]
+[location=complement(4032916..4033443)] [gbkey=CDS]
+
+Length=528
+Query= lcl|NZ_CP082178.1_cds_3614 [locus_tag=K4A87_RS19510]
+[protein=glutathione peroxidase] [pseudo=true] [partial=5',3']
+[location=complement(<4050308..>4050618)] [gbkey=CDS]
+
+Length=311
+Query= lcl|NZ_CP082178.1_cds_WP_238135589.1_3616 [locus_tag=K4A87_RS19525]
+[protein=hypothetical protein] [protein_id=WP_238135589.1]
+[location=4052914..4053090] [gbkey=CDS]
+
+Length=177
+Query= lcl|NZ_CP082178.1_cds_WP_208588244.1_3631 [locus_tag=K4A87_RS19605]
+[protein=LacI family transcriptional regulator]
+[protein_id=WP_208588244.1] [location=4069095..4070147] [gbkey=CDS]
+
+Length=1053
+Query= lcl|NZ_CP082178.1_cds_3633 [locus_tag=K4A87_RS19615]
+[protein=tryptophan 7-halogenase] [pseudo=true] [partial=5',3']
+[location=<4073339..>4073509] [gbkey=CDS]
+
+Length=171
+Query= lcl|NZ_CP082178.1_cds_3635 [locus_tag=K4A87_RS19625]
+[protein=tryptophan 7-halogenase] [pseudo=true] [partial=5',3']
+[location=<4074228..>4074469] [gbkey=CDS]
+
+Length=242
+Query= lcl|NZ_CP082178.1_cds_3644 [locus_tag=K4A87_RS19680]
+[protein=TonB-dependent receptor] [pseudo=true] [partial=5']
+[location=complement(4084809..>4085177)] [gbkey=CDS]
+
+Length=369
+Query= lcl|NZ_CP082178.1_cds_WP_208588256.1_3645 [locus_tag=K4A87_RS19685]
+[protein=TonB-dependent receptor] [protein_id=WP_208588256.1]
+[location=4085905..4088949] [gbkey=CDS]
+
+Length=3045
+Query= lcl|NZ_CP082179.1_cds_WP_208591895.1_3650 [locus_tag=K4A87_RS19710]
+[protein=DotA/TraY family protein] [protein_id=WP_208591895.1]
+[location=complement(join(19157..20157,1..1168))] [gbkey=CDS]
+
+Length=2169
+Query= lcl|NZ_CP082179.1_cds_WP_208591894.1_3651 [locus_tag=K4A87_RS19715]
+[protein=hypothetical protein] [protein_id=WP_208591894.1]
+[location=complement(1165..1719)] [gbkey=CDS]
+
+Length=555
+Query= lcl|NZ_CP082179.1_cds_WP_208591892.1_3652 [locus_tag=K4A87_RS19720]
+[protein=hypothetical protein] [protein_id=WP_208591892.1]
+[location=complement(1719..2003)] [gbkey=CDS]
+
+Length=285
+Query= lcl|NZ_CP082179.1_cds_WP_208591890.1_3653 [locus_tag=K4A87_RS19725]
+[protein=hypothetical protein] [protein_id=WP_208591890.1]
+[location=2469..2990] [gbkey=CDS]
+
+Length=522
+Query= lcl|NZ_CP082179.1_cds_WP_208591887.1_3655 [locus_tag=K4A87_RS19735]
+[protein=hypothetical protein] [protein_id=WP_208591887.1]
+[location=3624..3761] [gbkey=CDS]
+
+Length=138
+Query= lcl|NZ_CP082179.1_cds_WP_238135754.1_3660 [locus_tag=K4A87_RS19760]
+[protein=YecR-like lipofamily protein] [protein_id=WP_238135754.1]
+[location=complement(6949..7284)] [gbkey=CDS]
+
+Length=336
+Query= lcl|NZ_CP082179.1_cds_WP_208591879.1_3662 [locus_tag=K4A87_RS19770]
+[protein=hypothetical protein] [protein_id=WP_208591879.1]
+[location=complement(7960..8688)] [gbkey=CDS]
+
+Length=729
+Query= lcl|NZ_CP082179.1_cds_WP_208591878.1_3664 [locus_tag=K4A87_RS19780]
+[protein=hypothetical protein] [protein_id=WP_208591878.1]
+[location=9128..10987] [gbkey=CDS]
+
+Length=1860
+Query= lcl|NZ_CP082179.1_cds_WP_208591876.1_3665 [locus_tag=K4A87_RS19785]
+[protein=hypothetical protein] [protein_id=WP_208591876.1]
+[location=10997..11920] [gbkey=CDS]
+
+Length=924
+Query= lcl|NZ_CP082179.1_cds_WP_208591874.1_3668 [locus_tag=K4A87_RS19800]
+[protein=hypothetical protein] [protein_id=WP_208591874.1]
+[location=complement(13277..13645)] [gbkey=CDS]
+
+Length=369
+Query= lcl|NZ_CP082179.1_cds_WP_208591907.1_3669 [locus_tag=K4A87_RS19805]
+[protein=hypothetical protein] [protein_id=WP_208591907.1]
+[location=complement(14161..14463)] [gbkey=CDS]
+
+Length=303
+Query= lcl|NZ_CP082179.1_cds_WP_208591905.1_3670 [locus_tag=K4A87_RS19810]
+[protein=hypothetical protein] [protein_id=WP_208591905.1]
+[location=complement(14460..14750)] [gbkey=CDS]
+
+Length=291
+Query= lcl|NZ_CP082179.1_cds_WP_208591903.1_3671 [locus_tag=K4A87_RS19815]
+[protein=MobB mobilization protein] [protein_id=WP_208591903.1]
+[location=15036..15344] [gbkey=CDS]
+
+Length=309
+Query= lcl|NZ_CP082179.1_cds_WP_208591901.1_3672 [locus_tag=K4A87_RS19820]
+[protein=relaxase/mobilization nuclease domain-containing protein]
+[protein_id=WP_208591901.1] [location=15341..17017] [gbkey=CDS]
+
+Length=1677
+Query= lcl|NZ_CP082179.1_cds_WP_208591900.1_3673 [locus_tag=K4A87_RS19825]
+[protein=CopG family ribbon-helix-helix protein]
+[protein_id=WP_208591900.1] [location=17092..17364] [gbkey=CDS]
+
+Length=273
+Query= lcl|NZ_CP082179.1_cds_WP_208591899.1_3674 [locus_tag=K4A87_RS19830]
+[protein=type II toxin-antitoxin system RelE/ParE family toxin]
+[protein_id=WP_208591899.1] [location=17352..17645] [gbkey=CDS]
+
+Length=294
+Query= lcl|NZ_CP082179.1_cds_WP_208591909.1_3675 [locus_tag=K4A87_RS19835]
+[protein=hypothetical protein] [protein_id=WP_208591909.1]
+[location=17776..17970] [gbkey=CDS]
+
+Length=195
+Query= lcl|NZ_CP082179.1_cds_WP_208591898.1_3676 [locus_tag=K4A87_RS19840]
+[protein=hypothetical protein] [protein_id=WP_208591898.1]
+[location=complement(18000..18353)] [gbkey=CDS]
+
+Length=354
+Query= lcl|NZ_CP082179.1_cds_WP_238135756.1_3677 [locus_tag=K4A87_RS19845]
+[protein=hypothetical protein] [protein_id=WP_238135756.1]
+[location=complement(18362..18676)] [gbkey=CDS]
+
+Length=315
+Query= lcl|NZ_CP082179.1_cds_WP_208591896.1_3678 [locus_tag=K4A87_RS19850]
+[protein=hypothetical protein] [protein_id=WP_208591896.1]
+[location=complement(18636..19145)] [gbkey=CDS]
+
+Length=510
